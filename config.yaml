@@ -1,11 +1,11 @@
 # TODO: add papers by configuration file
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
-user_name: "jiangranlv"
+user_name: "LucioSunj"
 repo_name: "robotics-arxiv-daily"
 show_authors: True
 show_links: True
 show_badge: False
-max_results: 20
+max_results: 200
 
 publish_readme: True
 publish_gitpage: True
@@ -20,16 +20,310 @@ md_readme_path: 'README.md'
 md_gitpage_path: './docs/index.md'
 md_wechat_path: './docs/wechat.md'
 
-# keywords to search
 keywords:
-    # --------- My Keywords ---------
-    "Manipulation":
-        filters: ["Robot Manipulation", "Robotic Manipulation", "Robot Learning", "Imitation Learning"]
-    "VLM":
-        filters: ["Vision Language Model", "Vision Language Models", "Vision-Language Model", "Vision-Language Models"]
-    "VLA":
-        filters: ["Vision Language Action","Vision-Language-Action"]
-    "Humanoid":
-        filters: ["Humanoid Robot", "Humanoid"]
-    "Dexterous":
-        filters: ["Dexterous Manipulation", "Dexterous hand", "Dexterity", "Dexterous"]
+  # =========================
+  # Core 1: Long-horizon / multi-step
+  # =========================
+  "Long-Horizon":
+    filters:
+      [
+        # long horizon variants
+        "long-horizon", "long horizon", "Long-horizon", "Long horizon",
+        "long-horizon manipulation", "long horizon manipulation",
+        "long-range", "long range", "Long-range", "Long range",
+        "long-term", "long term", "Long-term", "Long term",
+        "long-duration", "long duration", "Long-duration", "Long duration",
+        "temporally extended", "Temporally extended",
+        "extended horizon", "Extended horizon",
+
+        # multi-step / sequential
+        "multi-step", "multi step", "Multi-step", "Multi step",
+        "multi-stage", "multi stage", "Multi-stage", "Multi stage",
+        "multi-turn", "multi turn", "Multi-turn", "Multi turn",
+        "multi-stage manipulation", "multi step manipulation",
+        "sequential decision", "Sequential decision",
+        "sequential decision making", "Sequential decision-making",
+        "sequence modeling", "Sequence modeling",
+        "temporal dependencies", "Temporal dependencies",
+        "long sequence", "Long sequence",
+        "long-context", "long context", "Long-context", "Long context",
+        "long-context reasoning", "long context reasoning",
+
+        # compositional / task chaining
+        "task decomposition", "Task decomposition",
+        "task chaining", "Task chaining",
+        "compositional", "Compositional",
+        "compositional task", "Compositional task",
+        "skill chaining", "Skill chaining",
+        "hierarchical task", "Hierarchical task",
+        "temporal abstraction", "Temporal abstraction",
+
+        # non-Markovian / POMDP-ish
+        "non-Markovian", "Non-Markovian",
+        "non markovian", "Non markovian",
+        "partially observable", "Partially observable",
+        "POMDP", "pomdp"
+      ]
+
+  # =========================
+  # Core 2: Temporal consistency (video + sequential stability)
+  # =========================
+  "Temporal-Consistency":
+    filters:
+      [
+        "temporal consistency", "Temporal consistency",
+        "temporally consistent", "Temporally consistent",
+        "time-consistent", "time consistent", "Time-consistent", "Time consistent",
+        "temporal coherence", "Temporal coherence",
+        "long-range coherence", "long range coherence", "Long-range coherence",
+        "temporal stability", "Temporal stability",
+        "temporal smoothness", "Temporal smoothness",
+        "temporal alignment", "Temporal alignment",
+
+        # video artifacts / flicker
+        "flicker", "Flicker", "flickering", "Flickering",
+        "frame consistency", "Frame consistency",
+        "inter-frame", "inter frame", "Inter-frame", "Inter frame",
+        "cross-frame", "cross frame", "Cross-frame", "Cross frame",
+
+        # identity / object consistency
+        "identity consistency", "Identity consistency",
+        "identity preservation", "Identity preservation",
+        "appearance consistency", "Appearance consistency",
+        "object consistency", "Object consistency",
+        "tracking consistency", "Tracking consistency",
+
+        # long video
+        "long video", "Long video",
+        "long-form video", "long form video", "Long-form video", "Long form video",
+        "video generation", "Video generation",
+        "video diffusion", "Video diffusion",
+        "text-to-video", "text to video", "Text-to-video", "Text to video",
+        "video editing", "Video editing",
+        "video prediction", "Video prediction"
+      ]
+
+  # =========================
+  # Core 3: Memory (KV/cache/retrieval/episodic/maps)
+  # =========================
+  "Memory":
+    filters:
+      [
+        # general memory (noisy but high recall)
+        "memory", "Memory",
+        "episodic memory", "Episodic memory",
+        "working memory", "Working memory",
+        "long-term memory", "long term memory", "Long-term memory", "Long term memory",
+        "short-term memory", "short term memory", "Short-term memory", "Short term memory",
+        "memory bank", "Memory bank",
+        "memory module", "Memory module",
+
+        # retrieval / RAG-ish
+        "retrieval", "Retrieval",
+        "retrieval-augmented", "retrieval augmented", "Retrieval-augmented", "Retrieval augmented",
+        "RAG", "rag",
+        "kNN", "KNN", "nearest neighbor", "Nearest neighbor",
+        "cache", "Cache",
+        "caching", "Caching",
+
+        # KV cache / attention cache
+        "KV cache", "kv cache", "KV-cache", "kv-cache",
+        "key-value", "Key-value", "key value", "Key value",
+        "key-value memory", "Key-value memory",
+        "attention cache", "Attention cache",
+        "context cache", "Context cache",
+
+        # external memory
+        "external memory", "External memory",
+        "differentiable memory", "Differentiable memory",
+        "neural memory", "Neural memory",
+        "memory-augmented", "memory augmented", "Memory-augmented", "Memory augmented",
+
+        # map / scene memory
+        "spatial memory", "Spatial memory",
+        "semantic memory", "Semantic memory",
+        "map memory", "Map memory",
+        "neural map", "Neural map",
+        "scene memory", "Scene memory",
+        "topological map", "Topological map",
+        "semantic map", "Semantic map"
+      ]
+
+  # =========================
+  # Core 4: Planning / Recovery / Verification (error accumulation)
+  # =========================
+  "Planning-Recovery":
+    filters:
+      [
+        # planning
+        "planning", "Planning",
+        "task planning", "Task planning",
+        "motion planning", "Motion planning",
+        "task and motion planning", "Task and motion planning", "TAMP", "tamp",
+        "hierarchical planning", "Hierarchical planning",
+        "behavior tree", "Behavior tree",
+        "symbolic planning", "Symbolic planning",
+        "MPC", "mpc", "model predictive control", "Model predictive control",
+
+        # replanning / recovery / correction
+        "replanning", "Replanning",
+        "re-plan", "replan", "Re-plan", "Replan",
+        "recovery", "Recovery",
+        "failure recovery", "Failure recovery",
+        "error recovery", "Error recovery",
+        "self-correction", "self correction", "Self-correction", "Self correction",
+        "self-refinement", "self refinement", "Self-refinement", "Self refinement",
+        "reflection", "Reflection",
+        "rollback", "Rollback",
+        "backtracking", "Backtracking",
+
+        # verification / checking
+        "verification", "Verification",
+        "verifier", "Verifier",
+        "self-verification", "self verification", "Self-verification", "Self verification",
+        "consistency checking", "Consistency checking",
+        "tool verification", "Tool verification",
+        "critic", "Critic",
+
+        # subgoals / hierarchy
+        "subgoal", "Subgoal",
+        "goal decomposition", "Goal decomposition",
+        "hierarchical", "Hierarchical",
+        "options", "Options",
+        "skill", "Skill",
+        "skills", "Skills"
+      ]
+
+  # =========================
+  # Robotics buckets you already have (expanded for recall)
+  # =========================
+  "Manipulation":
+    filters:
+      [
+        "Robot Manipulation", "Robotic Manipulation",
+        "robot manipulation", "robotic manipulation",
+        "manipulation", "Manipulation",
+        "long-horizon manipulation", "long horizon manipulation",
+        "multi-step manipulation", "multi step manipulation",
+        "contact-rich", "contact rich", "Contact-rich", "Contact rich",
+        "tool use", "Tool use", "tool-use", "Tool-use",
+        "pick and place", "Pick and place",
+        "assembly", "Assembly",
+        "deformable", "Deformable",
+        "cloth", "Cloth", "garment", "Garment", "folding", "Folding",
+        "bimanual", "Bimanual", "dual-arm", "dual arm", "Dual-arm", "Dual arm",
+        "robot learning", "Robot Learning",
+        "imitation learning", "Imitation Learning",
+        "behavior cloning", "Behaviour cloning", "Behavior Cloning",
+        "offline RL", "Offline RL", "offline reinforcement learning", "Offline reinforcement learning",
+        "reinforcement learning", "Reinforcement learning"
+      ]
+
+  "VLM":
+    filters:
+      [
+        "Vision Language Model", "Vision Language Models",
+        "Vision-Language Model", "Vision-Language Models",
+        "vision language model", "vision language models",
+        "vision-language model", "vision-language models",
+        "VLM", "vlm",
+        "multimodal", "Multimodal",
+        "multimodal LLM", "Multimodal LLM",
+        "vision-language", "Vision-language", "Vision-Language",
+        "visual grounding", "Visual grounding",
+        "grounding", "Grounding",
+        "referring expression", "Referring expression",
+        "instruction following", "Instruction following"
+      ]
+
+  "VLA":
+    filters:
+      [
+        "Vision Language Action", "Vision-Language-Action",
+        "Vision-Language-Action Model", "Vision Language Action Model",
+        "vision language action", "vision-language-action",
+        "VLA", "vla",
+        "language-conditioned policy", "Language-conditioned policy",
+        "instruction-conditioned policy", "Instruction-conditioned policy",
+        "multimodal policy", "Multimodal policy",
+        "robotic foundation model", "Robotic foundation model",
+        "robot foundation model", "Robot foundation model",
+        "generalist robot", "Generalist robot"
+      ]
+
+  "Humanoid":
+    filters:
+      [
+        "Humanoid Robot", "Humanoid",
+        "humanoid", "humanoid robot",
+        "whole-body", "whole body", "Whole-body", "Whole body",
+        "whole-body control", "Whole-body control",
+        "locomotion", "Locomotion",
+        "bimanual", "Bimanual",
+        "dexterous", "Dexterous",
+        "teleoperation", "Teleoperation"
+      ]
+
+  "Dexterous":
+    filters:
+      [
+        "Dexterous Manipulation", "Dexterous hand", "Dexterity", "Dexterous",
+        "dexterous manipulation", "dexterous hand", "dexterity", "dexterous",
+        "in-hand manipulation", "In-hand manipulation",
+        "tactile", "Tactile",
+        "contact-rich", "contact rich", "Contact-rich", "Contact rich",
+        "grasping", "Grasping",
+        "fine manipulation", "Fine manipulation"
+      ]
+
+  # =========================
+  # Cross-domain: World models / Navigation / Driving temporal (high recall)
+  # =========================
+  "World-Models":
+    filters:
+      [
+        "world model", "World model", "world models", "World models",
+        "latent dynamics", "Latent dynamics",
+        "dynamics model", "Dynamics model",
+        "predictive model", "Predictive model",
+        "state-space", "state space", "State-space", "State space",
+        "belief state", "Belief state",
+        "latent planning", "Latent planning",
+        "model-based", "model based", "Model-based", "Model based",
+        "model-based RL", "Model-based RL", "model based RL", "Model based RL",
+        "Dreamer", "dreamer",
+        "imagination", "Imagination",
+        "rollout", "Rollout"
+      ]
+
+  "Embodied-Navigation":
+    filters:
+      [
+        "Vision-and-Language Navigation", "Vision-Language Navigation", "VLN",
+        "vision and language navigation", "vision-language navigation", "vln",
+        "embodied navigation", "Embodied navigation",
+        "embodied AI", "Embodied AI",
+        "semantic map", "Semantic map",
+        "topological map", "Topological map",
+        "Neural SLAM", "neural SLAM", "neural slam",
+        "SLAM", "slam",
+        "instruction following", "Instruction following",
+        "goal-conditioned", "goal conditioned", "Goal-conditioned", "Goal conditioned"
+      ]
+
+  "Autonomous-Driving-Temporal":
+    filters:
+      [
+        "autonomous driving", "Autonomous driving",
+        "self-driving", "self driving", "Self-driving", "Self driving",
+        "BEV", "bev", "Bird's-eye view", "Birds eye view", "bird's-eye view", "birds eye view",
+        "temporal fusion", "Temporal fusion",
+        "multi-object tracking", "Multi-object tracking",
+        "tracking", "Tracking",
+        "motion forecasting", "Motion forecasting",
+        "trajectory prediction", "Trajectory prediction",
+        "scene flow", "Scene flow",
+        "4D", "4d",
+        "occupancy", "Occupancy",
+        "nuScenes", "nuscenes", "Waymo", "Argoverse"
+      ]
