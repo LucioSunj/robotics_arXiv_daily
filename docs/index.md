@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.02
+## Updated on 2026.01.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Long-Horizon
@@ -30,7 +30,7 @@ layout: default
 |**2025-12-30**|**Generative forecasting with joint probability models**|Daniele Venturi Team|[2512.24446](http://arxiv.org/abs/2512.24446)|null|
 |**2025-12-30**|**Efficient Inference for Inverse Reinforcement Learning and Dynamic Discrete Choice Models**|Nathan Kallus Team|[2512.24407](http://arxiv.org/abs/2512.24407)|null|
 |**2025-12-30**|**Real-world Reinforcement Learning from Suboptimal Interventions**|Jian Tang Team|[2512.24288](http://arxiv.org/abs/2512.24288)|null|
-|**2025-12-30**|**SeedProteo: Accurate De Novo All-Atom Design of Protein Binders**|Gu Quanquan Team|[2512.24192](http://arxiv.org/abs/2512.24192)|null|
+|**2025-12-30**|**SeedProteo: Accurate De Novo All-Atom Design of Protein Binders**|Quanquan Gu Team|[2512.24192](http://arxiv.org/abs/2512.24192)|null|
 |**2025-12-30**|**Training Report of TeleChat3-MoE**|Xuelong Li Team|[2512.24157](http://arxiv.org/abs/2512.24157)|null|
 |**2025-12-30**|**A persistent-homology-based Bayesian prior to identify Robin coefficient in parabolic problems**|Jiaying Jia Team|[2512.24046](http://arxiv.org/abs/2512.24046)|null|
 |**2025-12-30**|**Assured Autonomy: How Operations Research Powers and Orchestrates Generative AI Systems**|Yao Xie Team|[2512.23978](http://arxiv.org/abs/2512.23978)|null|
