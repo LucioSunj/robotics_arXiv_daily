@@ -713,6 +713,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-08**|**LaST $_{0}$ : Latent Spatio-Temporal Chain-of-Thought for Robotic Vision-Language-Action Model**|Shanghang Zhang Team|[2601.05248](http://arxiv.org/abs/2601.05248)|null|
+|**2026-01-08**|**Pixel-Perfect Visual Geometry Estimation**|Xin Yang Team|[2601.05246](http://arxiv.org/abs/2601.05246)|**[link](https://github.com/gangweix/pixel-perfect-depth)**|
+|**2026-01-08**|**RoboVIP: Multi-View Video Generation with Visual Identity Prompting Augments Robot Manipulation**|Jiangmiao Pang Team|[2601.05241](http://arxiv.org/abs/2601.05241)|null|
+|**2026-01-08**|**Plenoptic Video Generation**|Chen-Hsuan Lin Team|[2601.05239](http://arxiv.org/abs/2601.05239)|**[link](https://research.nvidia.com/labs/dir/plenopticdreamer/)**|
+|**2026-01-08**|**ObjectForesight: Predicting Future 3D Object Trajectories from Human Videos**|Roozbeh Mottaghi Team|[2601.05237](http://arxiv.org/abs/2601.05237)|null|
 |**2026-01-08**|**$PC^2$ : Politically Controversial Content Generation via Jailbreaking Attacks on GPT-based Text-to-Image Models**|Myoungsung You Team|[2601.05150](http://arxiv.org/abs/2601.05150)|null|
 |**2026-01-08**|**VerseCrafter: Dynamic Realistic Video World Model with 4D Geometric Control**|Yanwei Fu Team|[2601.05138](http://arxiv.org/abs/2601.05138)|**[link](https://sixiaozheng.github.io/VerseCrafter_page/)**|
 |**2026-01-08**|**From Understanding to Engagement: Personalized pharmacy Video Clips via Vision Language Models (VLMs)**|Anubhav Girdhar Team|[2601.05059](http://arxiv.org/abs/2601.05059)|null|
@@ -2669,6 +2674,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-08**|**RL-AWB: Deep Reinforcement Learning for Auto White Balance Correction in Low-Light Night-time Scenes**|Yu-Lun Liu Team|[2601.05249](http://arxiv.org/abs/2601.05249)|**[link](https://ntuneillee.github.io/research/rl-awb/)**|
+|**2026-01-08**|**LaST $_{0}$ : Latent Spatio-Temporal Chain-of-Thought for Robotic Vision-Language-Action Model**|Shanghang Zhang Team|[2601.05248](http://arxiv.org/abs/2601.05248)|null|
+|**2026-01-08**|**Generate, Transfer, Adapt: Learning Functional Dexterous Grasping from a Single Human Demonstration**|Kuan Fang Team|[2601.05243](http://arxiv.org/abs/2601.05243)|**[link](https://cordex-manipulation.github.io/)**|
+|**2026-01-08**|**GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization**|Pavlo Molchanov Team|[2601.05242](http://arxiv.org/abs/2601.05242)|null|
+|**2026-01-08**|**RoboVIP: Multi-View Video Generation with Visual Identity Prompting Augments Robot Manipulation**|Jiangmiao Pang Team|[2601.05241](http://arxiv.org/abs/2601.05241)|null|
+|**2026-01-08**|**Plenoptic Video Generation**|Chen-Hsuan Lin Team|[2601.05239](http://arxiv.org/abs/2601.05239)|**[link](https://research.nvidia.com/labs/dir/plenopticdreamer/)**|
 |**2026-01-08**|**EARL: Energy-Aware Optimization of Liquid State Machines for Pervasive AI**|Lorenzo Valerio Team|[2601.05205](http://arxiv.org/abs/2601.05205)|null|
 |**2026-01-08**|**SimuAgent: An LLM-Based Simulink Modeling Assistant Enhanced with Reinforcement Learning**|Xiaowei Zhao Team|[2601.05187](http://arxiv.org/abs/2601.05187)|null|
 |**2026-01-08**|**Inside Out: Evolving User-Centric Core Memory Trees for Long-Term Personalized Dialogue Systems**|Zhiyu li Team|[2601.05171](http://arxiv.org/abs/2601.05171)|null|
@@ -3766,6 +3777,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-08**|**GREx: Generalized Referring Expression Segmentation, Comprehension, and Generation**|Yu-Gang Jiang Team|[2601.05244](http://arxiv.org/abs/2601.05244)|**[link](https://henghuiding.com/GREx/)**|
 |**2026-01-08**|**Mechanisms of Prompt-Induced Hallucination in Vision-Language Models**|Kyle Mahowald Team|[2601.05201](http://arxiv.org/abs/2601.05201)|null|
 |**2026-01-08**|**CoV: Chain-of-View Prompting for Spatial Reasoning**|Bohan Zhuang Team|[2601.05172](http://arxiv.org/abs/2601.05172)|null|
 |**2026-01-08**|**VERSE: Visual Embedding Reduction and Space Exploration. Clustering-Guided Insights for Training Data Enhancement in Visually-Rich Document Understanding**|Jaime Boal Team|[2601.05125](http://arxiv.org/abs/2601.05125)|null|
@@ -4566,6 +4578,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-08**|**LaST $_{0}$ : Latent Spatio-Temporal Chain-of-Thought for Robotic Vision-Language-Action Model**|Shanghang Zhang Team|[2601.05248](http://arxiv.org/abs/2601.05248)|null|
+|**2026-01-08**|**RoboVIP: Multi-View Video Generation with Visual Identity Prompting Augments Robot Manipulation**|Jiangmiao Pang Team|[2601.05241](http://arxiv.org/abs/2601.05241)|null|
 |**2026-01-07**|**State Backdoor: Towards Stealthy Real-world Poisoning Attack on Vision-Language-Action Model in State Space**|Dusit Niyato Team|[2601.04266](http://arxiv.org/abs/2601.04266)|null|
 |**2026-01-07**|**CLAP: Contrastive Latent Action Pretraining for Learning Vision-Language-Action Models from Human Videos**|Yansong Tang Team|[2601.04061](http://arxiv.org/abs/2601.04061)|**[link](https://lin-shan.com/CLAP/)**|
 |**2026-01-07**|**Stable Language Guidance for Vision-Language-Action Models**|Guangrun Wang Team|[2601.04052](http://arxiv.org/abs/2601.04052)|null|
@@ -6153,6 +6167,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-08**|**ObjectForesight: Predicting Future 3D Object Trajectories from Human Videos**|Roozbeh Mottaghi Team|[2601.05237](http://arxiv.org/abs/2601.05237)|null|
 |**2026-01-08**|**Learning Latent Action World Models In The Wild**|Michael Rabbat Team|[2601.05230](http://arxiv.org/abs/2601.05230)|null|
 |**2026-01-08**|**VerseCrafter: Dynamic Realistic Video World Model with 4D Geometric Control**|Yanwei Fu Team|[2601.05138](http://arxiv.org/abs/2601.05138)|**[link](https://sixiaozheng.github.io/VerseCrafter_page/)**|
 |**2026-01-08**|**Energetic particles accelerated via turbulent magnetic reconnection in protoplanetary discs -- I: ionisation rates**|Sauty Christophe Team|[2601.05060](http://arxiv.org/abs/2601.05060)|null|
