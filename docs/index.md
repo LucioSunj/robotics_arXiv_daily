@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.09
+## Updated on 2026.01.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Long-Horizon
@@ -2079,7 +2079,7 @@ layout: default
 |**2026-01-07**|**A Future Capabilities Agent for Tactical Air Traffic Control**|Ben Carvell Team|[2601.04285](http://arxiv.org/abs/2601.04285)|null|
 |**2026-01-04**|**SAGE-32B: Agentic Reasoning via Iterative Distillation**|Wang Junhao Team|[2601.04237](http://arxiv.org/abs/2601.04237)|null|
 |**2025-12-26**|**Predictive Controlled Music**|Midhun T. Augustine Team|[2601.04221](http://arxiv.org/abs/2601.04221)|null|
-|**2025-12-20**|**Computable Gap Assessment of Artificial Intelligence Governance in Children's Centres:Evidence-Mechanism-Governance-Indicator Modelling of UNICEF's Guidance on AI and Children 3.0 Based on the Graph-GAP Framework**|Wei Meng Team|[2601.04216](http://arxiv.org/abs/2601.04216)|null|
+|**2025-12-20**|**Computable Gap Assessment of Artificial Intelligence Governance in Children's Centres: Evidence-Mechanism-Governance-Indicator Modelling of UNICEF's Guidance on AI and Children 3.0 Based on the Graph-GAP Framework**|Wei Meng Team|[2601.04216](http://arxiv.org/abs/2601.04216)|null|
 |**2026-01-07**|**Towards Safe Autonomous Driving: A Real-Time Motion Planning Algorithm on Embedded Hardware**|Johannes Betz Team|[2601.03904](http://arxiv.org/abs/2601.03904)|null|
 |**2026-01-07**|**Smooth Sampling-Based Model Predictive Control Using Deterministic Samples**|Uwe D. Hanebeck Team|[2601.03893](http://arxiv.org/abs/2601.03893)|null|
 |**2026-01-07**|**VietMed-MCQ: A Consistency-Filtered Data Synthesis Framework for Vietnamese Traditional Medicine Evaluation**|Dien Dinh Team|[2601.03792](http://arxiv.org/abs/2601.03792)|null|
