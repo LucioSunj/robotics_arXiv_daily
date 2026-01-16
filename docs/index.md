@@ -757,6 +757,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-15**|**Alterbute: Editing Intrinsic Attributes of Objects in Images**|Yedid Hoshen Team|[2601.10714](http://arxiv.org/abs/2601.10714)|**[link](https://talreiss.github.io/alterbute/)**|
 |**2026-01-15**|**CURVE: A Benchmark for Cultural and Multilingual Long Video Reasoning**|Shachi Dave Team|[2601.10649](http://arxiv.org/abs/2601.10649)|null|
 |**2026-01-15**|**CoMoVi: Co-Generation of 3D Human Motions and Realistic Videos**|Yuan Liu Team|[2601.10632](http://arxiv.org/abs/2601.10632)|**[link](https://igl-hkust.github.io/CoMoVi/)**|
 |**2026-01-15**|**Molmo2: Open Weights and Data for Vision-Language Models with Video Understanding and Grounding**|Ranjay Krishna Team|[2601.10611](http://arxiv.org/abs/2601.10611)|null|
@@ -2881,6 +2882,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-15**|**MatchTIR: Fine-Grained Supervision for Tool-Integrated Reasoning via Bipartite Matching**|Dawei Yin Team|[2601.10712](http://arxiv.org/abs/2601.10712)|null|
 |**2026-01-15**|**Institutional AI: A Governance Framework for Distributional AGI Safety**|Daniele Nardi Team|[2601.10599](http://arxiv.org/abs/2601.10599)|null|
 |**2026-01-15**|**Be Your Own Red Teamer: Safety Alignment via Self-Play and Reflective Experience Replay**|Lei Sha Team|[2601.10589](http://arxiv.org/abs/2601.10589)|null|
 |**2026-01-15**|**Combinatorial Optimization Augmented Machine Learning**|Axel Parmentier Team|[2601.10583](http://arxiv.org/abs/2601.10583)|null|
@@ -4220,6 +4222,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-15**|**Alterbute: Editing Intrinsic Attributes of Objects in Images**|Yedid Hoshen Team|[2601.10714](http://arxiv.org/abs/2601.10714)|**[link](https://talreiss.github.io/alterbute/)**|
+|**2026-01-15**|**From One-to-One to Many-to-Many: Dynamic Cross-Layer Injection for Deep Vision-Language Fusion**|Lianli Gao Team|[2601.10710](http://arxiv.org/abs/2601.10710)|null|
 |**2026-01-15**|**VoiceSculptor: Your Voice, Designed By You**|Lei Xie Team|[2601.10629](http://arxiv.org/abs/2601.10629)|null|
 |**2026-01-15**|**Molmo2: Open Weights and Data for Vision-Language Models with Video Understanding and Grounding**|Ranjay Krishna Team|[2601.10611](http://arxiv.org/abs/2601.10611)|null|
 |**2026-01-15**|**Unleashing the Capabilities of Large Vision-Language Models for Intelligent Perception of Roadside Infrastructure**|Zhen Dong Team|[2601.10551](http://arxiv.org/abs/2601.10551)|null|
@@ -6741,6 +6745,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-15**|**Data-driven stochastic reduced-order modeling of parametrized dynamical systems**|Prasanth B. Nair Team|[2601.10690](http://arxiv.org/abs/2601.10690)|null|
+|**2026-01-15**|**Synchronizing Probabilities in Model-Driven Lossless Compression**|Jennifer Tang Team|[2601.10678](http://arxiv.org/abs/2601.10678)|null|
 |**2026-01-15**|**Action100M: A Large-scale Video Action Dataset**|Pascale Fung Team|[2601.10592](http://arxiv.org/abs/2601.10592)|null|
 |**2026-01-15**|**Combinatorial Optimization Augmented Machine Learning**|Axel Parmentier Team|[2601.10583](http://arxiv.org/abs/2601.10583)|null|
 |**2026-01-15**|**Inference-time Physics Alignment of Video Generative Models with Latent World Models**|Adriana Romero-Soriano Team|[2601.10553](http://arxiv.org/abs/2601.10553)|null|
@@ -8087,6 +8093,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-15**|**See Less, Drive Better: Generalizable End-to-End Autonomous Driving via Foundation Models Stochastic Patch Selection**|Alaa Maalouf Team|[2601.10707](http://arxiv.org/abs/2601.10707)|null|
 |**2026-01-15**|**DeepUrban: Interaction-Aware Trajectory Prediction and Planning for Automated Driving by Aerial Imagery**|Fabian B. Flohr Team|[2601.10554](http://arxiv.org/abs/2601.10554)|null|
 |**2026-01-15**|**BikeActions: An Open Platform and Benchmark for Cyclist-Centric VRU Action Recognition**|Fabian B. Flohr Team|[2601.10521](http://arxiv.org/abs/2601.10521)|null|
 |**2026-01-15**|**SatMap: Revisiting Satellite Maps as Prior for Online HD Map Construction**|Fabian B. Flohr Team|[2601.10512](http://arxiv.org/abs/2601.10512)|null|
