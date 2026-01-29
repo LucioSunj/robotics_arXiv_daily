@@ -863,6 +863,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-28**|**FreeFix: Boosting 3D Gaussian Splatting via Fine-Tuning-Free Diffusion Models**|Yiyi Liao Team|[2601.20857](http://arxiv.org/abs/2601.20857)|**[link](https://xdimlab.github.io/freefix)**|
+|**2026-01-28**|**FAIRT2V: Training-Free Debiasing for Text-to-Video Diffusion Models**|Yang Song Team|[2601.20791](http://arxiv.org/abs/2601.20791)|null|
 |**2026-01-28**|**OnePiece: A Large-Scale Distributed Inference System with RDMA for Complex AI-Generated Content (AIGC) Workflows**|Stephen Liu Team|[2601.20655](http://arxiv.org/abs/2601.20655)|null|
 |**2026-01-28**|**SketchDynamics: Exploring Free-Form Sketches for Dynamic Intent Expression in Animation Generation**|Hongbo Fu Team|[2601.20622](http://arxiv.org/abs/2601.20622)|null|
 |**2026-01-28**|**DiffVC-RT: Towards Practical Real-Time Diffusion-based Perceptual Neural Video Compression**|Zhenzhong Chen Team|[2601.20564](http://arxiv.org/abs/2601.20564)|null|
@@ -1332,7 +1334,7 @@ layout: default
 |**2025-12-12**|**Autoregressive Video Autoencoder with Decoupled Temporal and Spatial Context**|Gengdai Liu Team|[2512.11293](http://arxiv.org/abs/2512.11293)|null|
 |**2025-12-12**|**FilmWeaver: Weaving Consistent Multi-Shot Videos with Cache-Guided Autoregressive Diffusion**|Shao-Lun Huang Team|[2512.11274](http://arxiv.org/abs/2512.11274)|null|
 |**2025-12-12**|**PersonaLive! Expressive Portrait Image Animation for Live Streaming**|Xiaodong Cun Team|[2512.11253](http://arxiv.org/abs/2512.11253)|null|
-|**2025-12-12**|**REST: Diffusion-based Real-time End-to-end Streaming Talking Head Generation via ID-Context Caching and Asynchronous Streaming Distillation**|Qingfeng Liu Team|[2512.11229](http://arxiv.org/abs/2512.11229)|null|
+|**2026-01-28**|**REST: Diffusion-based Real-time End-to-end Streaming Talking Head Generation via ID-Context Caching and Asynchronous Streaming Distillation**|Qingfeng Liu Team|[2512.11229](http://arxiv.org/abs/2512.11229)|null|
 |**2025-12-12**|**VFMF: World Modeling by Forecasting Vision Foundation Model Features**|Andrea Vedaldi Team|[2512.11225](http://arxiv.org/abs/2512.11225)|null|
 |**2025-12-15**|**AutoRefiner: Improving Autoregressive Video Diffusion Models via Reflective Refinement Over the Stochastic Sampling Path**|Yuki Mitsufuji Team|[2512.11203](http://arxiv.org/abs/2512.11203)|null|
 |**2025-12-11**|**ImplicitRDP: An End-to-End Visual-Force Diffusion Policy with Structural Slow-Fast Learning**|Cewu Lu Team|[2512.10946](http://arxiv.org/abs/2512.10946)|**[link](https://implicit-rdp.github.io)**|
@@ -2214,7 +2216,7 @@ layout: default
 |**2026-01-16**|**Mistake Notebook Learning: Batch-Clustered Failures for Training-Free Agent Adaptation**|Leo Huang Team|[2512.11485](http://arxiv.org/abs/2512.11485)|null|
 |**2025-12-12**|**Spectral entropy prior-guided deep feature fusion architecture for magnetic core loss**|Jin Zhang Team|[2512.11334](http://arxiv.org/abs/2512.11334)|null|
 |**2025-12-12**|**Unifying Dynamic Tool Creation and Cross-Task Experience Sharing through Cognitive Memory Architecture**|Peng Cao Team|[2512.11303](http://arxiv.org/abs/2512.11303)|null|
-|**2025-12-12**|**REST: Diffusion-based Real-time End-to-end Streaming Talking Head Generation via ID-Context Caching and Asynchronous Streaming Distillation**|Qingfeng Liu Team|[2512.11229](http://arxiv.org/abs/2512.11229)|null|
+|**2026-01-28**|**REST: Diffusion-based Real-time End-to-end Streaming Talking Head Generation via ID-Context Caching and Asynchronous Streaming Distillation**|Qingfeng Liu Team|[2512.11229](http://arxiv.org/abs/2512.11229)|null|
 |**2025-12-12**|**Adaptive Soft Rolling KV Freeze with Entropy-Guided Recovery: Sublinear Memory Growth for Efficient LLM Inference**|Gulnara D. Kabaeva Team|[2512.11221](http://arxiv.org/abs/2512.11221)|null|
 |**2025-12-15**|**AutoRefiner: Improving Autoregressive Video Diffusion Models via Reflective Refinement Over the Stochastic Sampling Path**|Yuki Mitsufuji Team|[2512.11203](http://arxiv.org/abs/2512.11203)|null|
 |**2025-12-11**|**Phase structure of the one-dimensional $\mathbb{Z}_2$ lattice gauge theory with second nearest-neighbor interactions**|Agnieszka Cichy Team|[2512.10755](http://arxiv.org/abs/2512.10755)|null|
@@ -3295,6 +3297,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-28**|**End-to-end example-based sim-to-real RL policy transfer based on neural stylisation with application to robotic cutting**|Rustam Stolkin Team|[2601.20846](http://arxiv.org/abs/2601.20846)|null|
+|**2026-01-28**|**Training Reasoning Models on Saturated Problems via Failure-Prefix Conditioning**|Keith Ross Team|[2601.20829](http://arxiv.org/abs/2601.20829)|null|
+|**2026-01-28**|**Reinforcement Learning via Self-Distillation**|Andreas Krause Team|[2601.20802](http://arxiv.org/abs/2601.20802)|null|
+|**2026-01-28**|**SERA: Soft-Verified Efficient Repository Agents**|Tim Dettmers Team|[2601.20789](http://arxiv.org/abs/2601.20789)|null|
 |**2026-01-28**|**Learning From a Steady Hand: A Weakly Supervised Agent for Robot Assistance under Microscopy**|Christos Bergeles Team|[2601.20776](http://arxiv.org/abs/2601.20776)|null|
 |**2026-01-28**|**Less is More: Clustered Cross-Covariance Control for Offline RL**|Ju Ren Team|[2601.20765](http://arxiv.org/abs/2601.20765)|null|
 |**2026-01-28**|**GraphAllocBench: A Flexible Benchmark for Preference-Conditioned Multi-Objective Policy Learning**|Volkan Ustun Team|[2601.20753](http://arxiv.org/abs/2601.20753)|null|
@@ -5028,6 +5034,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-28**|**Open-Vocabulary Functional 3D Human-Scene Interaction Generation**|Yan Zhang Team|[2601.20835](http://arxiv.org/abs/2601.20835)|null|
 |**2026-01-28**|**Compression Tells Intelligence: Visual Coding, Visual Token Technology, and the Unification**|Wenjun Zeng Team|[2601.20742](http://arxiv.org/abs/2601.20742)|null|
 |**2026-01-28**|**bi-modal textual prompt learning for vision-language models in remote sensing**|Biplab Banerjee Team|[2601.20675](http://arxiv.org/abs/2601.20675)|null|
 |**2026-01-28**|**Investigating the Development of Task-Oriented Communication in Vision-Language Models**|Ron Meir Team|[2601.20641](http://arxiv.org/abs/2601.20641)|null|
@@ -7822,6 +7829,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-28**|**A General Mixture Loss Function to Optimize a Personalized PredictiveModel**|Joel A. Dubin Team|[2601.20788](http://arxiv.org/abs/2601.20788)|null|
 |**2026-01-28**|**Advancing Open-source World Models**|Hao Ouyang Team|[2601.20540](http://arxiv.org/abs/2601.20540)|**[link](https://technology.robbyant.com/lingbot-world)**|
 |**2026-01-28**|**PathWise: Planning through World Model for Automated Heuristic Design via Self-Evolving LLMs**|Faramarz Fekri Team|[2601.20539](http://arxiv.org/abs/2601.20539)|null|
 |**2026-01-28**|**CCMamba: Selective State-Space Models for Higher-Order Graph Learning on Combinatorial Complexes**|Wenwu Yu Team|[2601.20518](http://arxiv.org/abs/2601.20518)|null|
@@ -8753,6 +8761,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-28**|**Open-Vocabulary Functional 3D Human-Scene Interaction Generation**|Yan Zhang Team|[2601.20835](http://arxiv.org/abs/2601.20835)|null|
 |**2026-01-28**|**Compression Tells Intelligence: Visual Coding, Visual Token Technology, and the Unification**|Wenjun Zeng Team|[2601.20742](http://arxiv.org/abs/2601.20742)|null|
 |**2026-01-28**|**RF-MatID: Dataset and Benchmark for Radio Frequency Material Identification**|Jianfei Yang Team|[2601.20377](http://arxiv.org/abs/2601.20377)|null|
 |**2026-01-27**|**UniMGS: Unifying Mesh and 3D Gaussian Splatting with Single-Pass Rasterization and Proxy-Based Deformation**|Lihua Zhang Team|[2601.19233](http://arxiv.org/abs/2601.19233)|null|
