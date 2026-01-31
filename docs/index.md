@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.30
+## Updated on 2026.01.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Long-Horizon
@@ -1170,7 +1170,7 @@ layout: default
 |**2025-12-27**|**CoAgent: Collaborative Planning and Consistency Agent for Coherent Video Generation**|Keze Wang Team|[2512.22536](http://arxiv.org/abs/2512.22536)|null|
 |**2025-12-26**|**VideoZoomer: Reinforcement-Learned Temporal Focusing for Long Video Reasoning**|Yujiu Yang Team|[2512.22315](http://arxiv.org/abs/2512.22315)|null|
 |**2025-12-26**|**MoFu: Scale-Aware Modulation and Fourier Fusion for Multi-Subject Video Generation**|Xingwei Wang Team|[2512.22310](http://arxiv.org/abs/2512.22310)|null|
-|**2025-12-25**|**A Three-Level Alignment Framework for Large-Scale 3D Retrieval and Controlled 4D Generation**|Raouf Hamzaoui Team|[2512.22294](http://arxiv.org/abs/2512.22294)|null|
+|**2025-12-25**|**A Three-Level Alignment Framework for Large-Scale 3D Retrieval and Controlled 4D Generation**|Philip Xu Team|[2512.22294](http://arxiv.org/abs/2512.22294)|null|
 |**2025-12-25**|**GeCo: A Differentiable Geometric Consistency Metric for Video Generation**|Hanspeter Pfister Team|[2512.22274](http://arxiv.org/abs/2512.22274)|null|
 |**2025-12-23**|**Failure Analysis of Safety Controllers in Autonomous Vehicles Under Object-Based LiDAR Attacks**|Assel Smaiyl Team|[2512.22244](http://arxiv.org/abs/2512.22244)|null|
 |**2025-12-23**|**VideoScaffold: Elastic-Scale Visual Hierarchies for Streaming Video Understanding in MLLMs**|Feng Zhao Team|[2512.22226](http://arxiv.org/abs/2512.22226)|null|
