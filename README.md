@@ -1282,7 +1282,7 @@
 |**2026-02-13**|**FlowHOI: Flow-based Semantics-Grounded Generation of Hand-Object Interactions for Dexterous Robot Manipulation**|Xingxing Zuo Team|[2602.13444](http://arxiv.org/abs/2602.13444)|**[link](https://huajian-zeng.github.io/projects/flowhoi/)**|
 |**2026-02-13**|**Learning on the Fly: Replay-Based Continual Object Perception for Indoor Drones**|Marius Leordeanu Team|[2602.13440](http://arxiv.org/abs/2602.13440)|null|
 |**2026-02-13**|**AdaCorrection: Adaptive Offset Cache Correction for Accurate Diffusion Transformers**|Ying Nian Wu Team|[2602.13357](http://arxiv.org/abs/2602.13357)|null|
-|**2026-02-12**|**FireRed-Image-Edit-1.0 Techinical Report**|Ziyuan Guo Team|[2602.13344](http://arxiv.org/abs/2602.13344)|null|
+|**2026-02-12**|**FireRed-Image-Edit-1.0 Technical Report**|Ziyuan Guo Team|[2602.13344](http://arxiv.org/abs/2602.13344)|null|
 |**2026-02-11**|**HiST-VLA: A Hierarchical Spatio-Temporal Vision-Language-Action Model for End-to-End Autonomous Driving**|Hao Sun Team|[2602.13329](http://arxiv.org/abs/2602.13329)|null|
 |**2026-02-09**|**Progressive Contrast Registration for High-Fidelity Bidirectional Photoacoustic Microscopy Alignment**|Jiahao Qin Team|[2602.13304](http://arxiv.org/abs/2602.13304)|null|
 |**2026-01-23**|**Network-Adaptive Cloud Preprocessing for Visual Neuroprostheses**|Michael Beyeler Team|[2602.13216](http://arxiv.org/abs/2602.13216)|null|
@@ -4608,7 +4608,7 @@
 |**2026-02-13**|**Unsafer in Many Turns: Benchmarking and Defending Multi-Turn Safety Risks in Tool-Using Agents**|Weiyan Shi Team|[2602.13379](http://arxiv.org/abs/2602.13379)|null|
 |**2026-02-13**|**Nanbeige4.1-3B: A Small General Model that Reasons, Aligns, and Acts**|Zongchao Chen Team|[2602.13367](http://arxiv.org/abs/2602.13367)|null|
 |**2026-02-13**|**Robust Mean-Field Games with Risk Aversion and Bounded Rationality**|Panagiotis Tsiotras Team|[2602.13353](http://arxiv.org/abs/2602.13353)|null|
-|**2026-02-12**|**FireRed-Image-Edit-1.0 Techinical Report**|Ziyuan Guo Team|[2602.13344](http://arxiv.org/abs/2602.13344)|null|
+|**2026-02-12**|**FireRed-Image-Edit-1.0 Technical Report**|Ziyuan Guo Team|[2602.13344](http://arxiv.org/abs/2602.13344)|null|
 |**2026-02-11**|**MedScope: Incentivizing "Think with Videos" for Clinical Reasoning via Coarse-to-Fine Tool Calling**|Yankai Jiang Team|[2602.13332](http://arxiv.org/abs/2602.13332)|null|
 |**2026-02-10**|**Information Fidelity in Tool-Using LLM Agents: A Martingale Analysis of the Model Context Protocol**|Yew-Soon Ong Team|[2602.13320](http://arxiv.org/abs/2602.13320)|null|
 |**2026-02-10**|**Adaptive Value Decomposition: Coordinating a Varying Number of Agents in Urban Systems**|Zihao Jiao Team|[2602.13309](http://arxiv.org/abs/2602.13309)|null|
