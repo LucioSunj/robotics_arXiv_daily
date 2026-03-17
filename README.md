@@ -23,6 +23,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-16**|**Mamba-3: Improved Sequence Modeling using State Space Principles**|Albert Gu Team|[2603.15569](http://arxiv.org/abs/2603.15569)|null|
+|**2026-03-16**|**The PokeAgent Challenge: Competitive and Long-Context Learning at Scale**|Chi Jin Team|[2603.15563](http://arxiv.org/abs/2603.15563)|null|
+|**2026-03-16**|**DUET: Disaggregated Hybrid Mamba-Transformer LLMs with Prefill and Decode-Specific Packages**|Umit Y. Ogras Team|[2603.15530](http://arxiv.org/abs/2603.15530)|null|
+|**2026-03-16**|**Evaluating Time Awareness and Cross-modal Active Perception of Large Models via 4D Escape Room Task**|Yang Liu Team|[2603.15467](http://arxiv.org/abs/2603.15467)|null|
+|**2026-03-16**|**Financial Transaction Retrieval and Contextual Evidence for Knowledge-Grounded Reasoning**|Maksim Makarenko Team|[2603.15459](http://arxiv.org/abs/2603.15459)|null|
+|**2026-03-16**|**Formalisms for Robotic Mission Specification and Execution: A Comparative Analysis**|Patrizio Pelliccione Team|[2603.15427](http://arxiv.org/abs/2603.15427)|null|
+|**2026-03-16**|**MeMix: Writing Less, Remembering More for Streaming 3D Reconstruction**|Yan Wang Team|[2603.15330](http://arxiv.org/abs/2603.15330)|null|
+|**2026-03-16**|**Algorithms for Deciding the Safety of States in Fully Observable Non-deterministic Problems: Technical Report**|Chaahat Jain Team|[2603.15282](http://arxiv.org/abs/2603.15282)|null|
+|**2026-03-16**|**SliceMapper: Intelligent Mapping of O-CU and O-DU onto O-Cloud Sites in 6G O-RAN**|Hans D. Schotten Team|[2603.15242](http://arxiv.org/abs/2603.15242)|null|
+|**2026-03-16**|**Thermal Image Refinement with Depth Estimation using Recurrent Networks for Monocular ORB-SLAM3**|Erdal Kayacan Team|[2603.14998](http://arxiv.org/abs/2603.14998)|null|
+|**2026-03-16**|**Spatiotemporally Consistent Multivariate Bias Correction for Climate Projections via Nested Vine Copulas**|Thibault Vatter Team|[2603.14984](http://arxiv.org/abs/2603.14984)|null|
 |**2026-03-16**|**SSR: A Training-Free Approach for Streaming 3D Reconstruction**|Yuchao Dai Team|[2603.14765](http://arxiv.org/abs/2603.14765)|null|
 |**2026-03-16**|**Online Learning for Supervisory Switching Control**|Ali Jadbabaie Team|[2603.14762](http://arxiv.org/abs/2603.14762)|null|
 |**2026-03-15**|**EARCP: Self-Regulating Coherence-Aware Ensemble Architecture for Sequential Decision Making -- Ensemble Auto-Regule par Coherence et Performance**|Mike Amega Team|[2603.14651](http://arxiv.org/abs/2603.14651)|**[link](https://github.com/Volgat/earcp)**|
@@ -52,7 +63,7 @@
 |**2026-03-13**|**Competition-Aware CPC Forecasting with Near-Market Coverage**|Maximilian Kaiser Team|[2603.13059](http://arxiv.org/abs/2603.13059)|null|
 |**2026-03-13**|**A toy model of a protein prototype reveals nontrivial ultrametricity of the energy landscape**|A. P. Zubarev Team|[2603.13012](http://arxiv.org/abs/2603.13012)|null|
 |**2026-03-13**|**RoboStream: Weaving Spatio-Temporal Reasoning with Memory in Vision-Language Models for Robotics**|Zhi Wang Team|[2603.12939](http://arxiv.org/abs/2603.12939)|null|
-|**2026-03-13**|**Surprised by Attention: Predictable Query Dynamics for Time Series Anomaly Detection**|Markus Enzweiler Team|[2603.12916](http://arxiv.org/abs/2603.12916)|null|
+|**2026-03-16**|**Surprised by Attention: Predictable Query Dynamics for Time Series Anomaly Detection**|Markus Enzweiler Team|[2603.12916](http://arxiv.org/abs/2603.12916)|null|
 |**2026-03-13**|**Explainable AI Using Inherently Interpretable Components for Wearable-based Health Monitoring**|Tanuj Hasija Team|[2603.12880](http://arxiv.org/abs/2603.12880)|null|
 |**2026-03-13**|**CMHANet: A Cross-Modal Hybrid Attention Network for Point Cloud Registration**|Jihua Zhu Team|[2603.12721](http://arxiv.org/abs/2603.12721)|null|
 |**2026-03-13**|**AI Planning Framework for LLM-Based Web Agents**|Rotem Dror Team|[2603.12710](http://arxiv.org/abs/2603.12710)|null|
@@ -61,7 +72,7 @@
 |**2026-03-12**|**Robots that redesign themselves through kinematic self-destruction**|Sam Kriegman Team|[2603.12505](http://arxiv.org/abs/2603.12505)|null|
 |**2026-03-12**|**Probing Length Generalization in Mamba via Image Reconstruction**|Anand Subramoney Team|[2603.12499](http://arxiv.org/abs/2603.12499)|null|
 |**2026-03-12**|**Spatial PDE-aware Selective State-space with Nested Memory for Mobile Traffic Grid Forecasting**|Andreas Kassler Team|[2603.12353](http://arxiv.org/abs/2603.12353)|null|
-|**2026-03-12**|**Optimizing Task Completion Time Updates Using POMDPs**|Mykel J. Kochenderfer Team|[2603.12340](http://arxiv.org/abs/2603.12340)|null|
+|**2026-03-16**|**Optimizing Task Completion Time Updates Using POMDPs**|Mykel J. Kochenderfer Team|[2603.12340](http://arxiv.org/abs/2603.12340)|null|
 |**2026-03-16**|**Toward Robust, Reproducible, and Widely Accessible Intracranial Language Brain-Computer Interfaces: A Comprehensive Review of Neural Mechanisms, Hardware, Algorithms, Evaluation, Clinical Pathways and Future Directions**|Nizhuan Wang Team|[2603.12279](http://arxiv.org/abs/2603.12279)|null|
 |**2026-03-12**|**FlashMotion: Few-Step Controllable Video Generation with Trajectory Guidance**|Zuxuan Wu Team|[2603.12146](http://arxiv.org/abs/2603.12146)|null|
 |**2026-03-12**|**Opinion Dynamics in Learning Systems**|Celestine Mendler-Dünner Team|[2603.12137](http://arxiv.org/abs/2603.12137)|null|
@@ -176,7 +187,7 @@
 |**2026-03-05**|**Early Warning of Intraoperative Adverse Events via Transformer-Driven Multi-Label Learning**|Yu Yao Team|[2603.05212](http://arxiv.org/abs/2603.05212)|null|
 |**2026-03-05**|**Critic in the Loop: A Tri-System VLA Framework for Robust Long-Horizon Manipulation**|Shanlin Zhong Team|[2603.05185](http://arxiv.org/abs/2603.05185)|null|
 |**2026-03-08**|**SeedPolicy: Horizon Scaling via Self-Evolving Diffusion Policy for Robot Manipulation**|Shuaicheng Liu Team|[2603.05117](http://arxiv.org/abs/2603.05117)|null|
-|**2026-03-05**|**BLINK: Behavioral Latent Modeling of NK Cell Cytotoxicity**|Maria Kalweit Team|[2603.05110](http://arxiv.org/abs/2603.05110)|null|
+|**2026-03-16**|**BLINK: Behavioral Latent Modeling of NK Cell Cytotoxicity**|Maria Kalweit Team|[2603.05110](http://arxiv.org/abs/2603.05110)|null|
 |**2026-03-06**|**MoRe: Motion-aware Feed-forward 4D Reconstruction Transformer**|Yu-Shen Liu Team|[2603.05078](http://arxiv.org/abs/2603.05078)|**[link](https://hellexf.github.io/MoRe/)**|
 |**2026-03-05**|**Stochastic Optimal Feedforward-Feedback Control for Partially Observable Sensorimotor Systems**|Frédéric Jean Team|[2603.04994](http://arxiv.org/abs/2603.04994)|null|
 |**2026-03-05**|**Think, Then Verify: A Hypothesis-Verification Multi-Agent Framework for Long Video Understanding**|Cong Bai Team|[2603.04977](http://arxiv.org/abs/2603.04977)|null|
@@ -1559,6 +1570,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-16**|**Tri-Prompting: Video Diffusion with Unified Control over Scene, Subject, and Motion**|Jiebo Luo Team|[2603.15614](http://arxiv.org/abs/2603.15614)|**[link](https://zhouzhenghong-gt.github.io/Tri-Prompting-Page/)**|
+|**2026-03-16**|**Grounding World Simulation Models in a Real-World Metropolis**|Jin-Hwa Kim Team|[2603.15583](http://arxiv.org/abs/2603.15583)|**[link](https://seoul-world-model.github.io/)**|
+|**2026-03-16**|**FreeTalk: Emotional Topology-Free 3D Talking Heads**|Mohamed Daoudi Team|[2603.15512](http://arxiv.org/abs/2603.15512)|null|
+|**2026-03-16**|**iDaVIE v1.0: A virtual reality tool for interactive analysis of astronomical data cubes**|Michaela van Zyl Team|[2603.15490](http://arxiv.org/abs/2603.15490)|null|
+|**2026-03-16**|**ViFeEdit: A Video-Free Tuner of Your Video Diffusion Transformer**|Xinchao Wang Team|[2603.15478](http://arxiv.org/abs/2603.15478)|**[link](https://github.com/Lexie-YU/ViFeEdit)**|
+|**2026-03-16**|**AnyCrowd: Instance-Isolated Identity-Pose Binding for Arbitrary Multi-Character Animation**|Hao Li Team|[2603.15415](http://arxiv.org/abs/2603.15415)|null|
+|**2026-03-16**|**Faster Inference of Flow-Based Generative Models via Improved Data-Noise Coupling**|Paolo Favaro Team|[2603.15279](http://arxiv.org/abs/2603.15279)|**[link](https://github.com/araachie/loom-cfm)**|
+|**2026-03-16**|**Question-guided Visual Compression with Memory Feedback for Long-Term Video Understanding**|Shun Takeuchi Team|[2603.15167](http://arxiv.org/abs/2603.15167)|null|
+|**2026-03-16**|**Master Micro Residual Correction with Adaptive Tactile Fusion and Force-Mixed Control for Contact-Rich Manipulation**|Wenbo Ding Team|[2603.15152](http://arxiv.org/abs/2603.15152)|null|
+|**2026-03-16**|**Next-Frame Decoding for Ultra-Low-Bitrate Image Compression with Video Diffusion Priors**|Guo Lu Team|[2603.15129](http://arxiv.org/abs/2603.15129)|null|
+|**2026-03-16**|**Beam Prediction Based on Multimodal Large Language Models**|Shi Jin Team|[2603.15093](http://arxiv.org/abs/2603.15093)|null|
+|**2026-03-16**|**GeoNVS: Geometry Grounded Video Diffusion for Novel View Synthesis**|Kuk-Jin Yoon Team|[2603.14965](http://arxiv.org/abs/2603.14965)|**[link](https://sites.google.com/view/minjun-kang/geonvs-arxiv26)**|
 |**2026-03-16**|**Bridging Scene Generation and Planning: Driving with World Model via Unifying Vision and Motion Representation**|Jianbing Shen Team|[2603.14948](http://arxiv.org/abs/2603.14948)|**[link](https://github.com/TabGuigui/WorldDrive)**|
 |**2026-03-16**|**FAR-Drive: Frame-AutoRegressive Video Generation in Closed-Loop Autonomous Driving**|Qi Guo Team|[2603.14938](http://arxiv.org/abs/2603.14938)|null|
 |**2026-03-16**|**Face-to-Face: A Video Dataset for Multi-Person Interaction Modeling**|Vishal M. Patel Team|[2603.14794](http://arxiv.org/abs/2603.14794)|null|
@@ -3067,6 +3090,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-16**|**Benchmarking quantum simulation with neutron-scattering experiments**|Arnab Banerjee Team|[2603.15608](http://arxiv.org/abs/2603.15608)|null|
+|**2026-03-16**|**Benchmarking Machine Learning Approaches for Polarization Mapping in Ferroelectrics Using 4D-STEM**|Andreja Benčan Golob Team|[2603.15582](http://arxiv.org/abs/2603.15582)|null|
+|**2026-03-16**|**CLAG: Adaptive Memory Organization via Agent-Driven Clustering for Small Language Model Agents**|Jaewoo Kang Team|[2603.15421](http://arxiv.org/abs/2603.15421)|null|
+|**2026-03-16**|**Advancing Multimodal Agent Reasoning with Long-Term Neuro-Symbolic Memory**|Wenjie Zhang Team|[2603.15280](http://arxiv.org/abs/2603.15280)|null|
+|**2026-03-16**|**Scalar Spin Chiral Order via Bond Selectivity in Strained Collinear Ferrimagnets**|Denglu Hou Team|[2603.14971](http://arxiv.org/abs/2603.14971)|null|
 |**2026-03-16**|**ExPosST: Explicit Positioning with Adaptive Masking for LLM-Based Simultaneous Machine Translation**|Jingsong Su Team|[2603.14903](http://arxiv.org/abs/2603.14903)|null|
 |**2026-03-16**|**A New Lower Bounding Paradigm and Tighter Lower Bounds for Elastic Similarity Measures**|Hongzhi Wang Team|[2603.14899](http://arxiv.org/abs/2603.14899)|null|
 |**2026-03-16**|**Shopping Companion: A Memory-Augmented LLM Agent for Real-World E-Commerce Tasks**|Xiaoyi Zeng Team|[2603.14864](http://arxiv.org/abs/2603.14864)|null|
@@ -4598,6 +4626,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-16**|**Formalisms for Robotic Mission Specification and Execution: A Comparative Analysis**|Patrizio Pelliccione Team|[2603.15427](http://arxiv.org/abs/2603.15427)|null|
+|**2026-03-16**|**$b \to c$ semileptonic sum rule: exploring a sterile neutrino loophole**|Satoshi Mishima Team|[2603.15029](http://arxiv.org/abs/2603.15029)|null|
 |**2026-03-16**|**Bridging Scene Generation and Planning: Driving with World Model via Unifying Vision and Motion Representation**|Jianbing Shen Team|[2603.14948](http://arxiv.org/abs/2603.14948)|**[link](https://github.com/TabGuigui/WorldDrive)**|
 |**2026-03-16**|**GNNVerifier: Graph-based Verifier for LLM Task Planning**|Chuan Shi Team|[2603.14730](http://arxiv.org/abs/2603.14730)|null|
 |**2026-03-16**|**Background-level reconstruction of scalar-field potentials from dark-energy histories and comparison with analytic potential families**|J. Alberto Vazquez Team|[2603.14693](http://arxiv.org/abs/2603.14693)|null|
@@ -4946,7 +4976,7 @@
 |**2026-02-24**|**Fast-ThinkAct: Efficient Vision-Language-Action Reasoning via Verbalizable Latent Planning**|Fu-En Yang Team|[2601.09708](http://arxiv.org/abs/2601.09708)|**[link](https://jasper0314-huang.github.io/fast-thinkact/)**|
 |**2026-01-14**|**Feedback-Based Mobile Robot Navigation in 3-D Environments Using Artificial Potential Functions Technical Report**|Elon Rimon Team|[2601.09318](http://arxiv.org/abs/2601.09318)|null|
 |**2026-01-14**|**Robo-Advising in Motion: A Model Predictive Control Approach**|Igor Cialenco Team|[2601.09127](http://arxiv.org/abs/2601.09127)|null|
-|**2026-01-13**|**Imagine-then-Plan: Agent Learning from Adaptive Lookahead with World Models**|Wenjie Li Team|[2601.08955](http://arxiv.org/abs/2601.08955)|null|
+|**2026-03-16**|**Imagine-then-Plan: Agent Learning from Adaptive Lookahead with World Models**|Wenjie Li Team|[2601.08955](http://arxiv.org/abs/2601.08955)|null|
 |**2025-12-17**|**Recursive Knowledge Synthesis for Multi-LLM Systems: Stability Analysis and Tri-Agent Audit Framework**|Toshiyuki Shigemura Team|[2601.08839](http://arxiv.org/abs/2601.08839)|null|
 |**2026-01-13**|**Real2Sim based on Active Perception with automatically VLM-generated Behavior Trees**|Pietro Falco Team|[2601.08454](http://arxiv.org/abs/2601.08454)|null|
 |**2026-01-13**|**Multiobjective Model Predictive Control for Residential Demand Response Management Under Uncertainty**|Dhananjay Thiruvady Team|[2601.08445](http://arxiv.org/abs/2601.08445)|null|
@@ -5546,6 +5576,49 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-16**|**Towards Generalizable Robotic Manipulation in Dynamic Environments**|Xiang Bai Team|[2603.15620](http://arxiv.org/abs/2603.15620)|null|
+|**2026-03-16**|**Look Before Acting: Enhancing Vision Foundation Representations for Vision-Language-Action Models**|Shanghang Zhang Team|[2603.15618](http://arxiv.org/abs/2603.15618)|null|
+|**2026-03-16**|**GlyphPrinter: Region-Grouped Direct Preference Optimization for Glyph-Accurate Visual Text Rendering**|Dacheng Tao Team|[2603.15616](http://arxiv.org/abs/2603.15616)|**[link](https://henghuiding.com/GlyphPrinter/)**|
+|**2026-03-16**|**HSImul3R: Physics-in-the-Loop Reconstruction of Simulation-Ready Human-Scene Interactions**|Ziwei Liu Team|[2603.15612](http://arxiv.org/abs/2603.15612)|**[link](https://yukangcao.github.io/HSImul3R/)**|
+|**2026-03-16**|**Code-A1: Adversarial Evolving of Code LLM and Test LLM via Reinforcement Learning**|Yongliang Shen Team|[2603.15611](http://arxiv.org/abs/2603.15611)|**[link](https://zju-real.github.io/Code-A1)**|
+|**2026-03-16**|**From Passive Observer to Active Critic: Reinforcement Learning Elicits Process Reasoning for Robotic Manipulation**|Yao Mu Team|[2603.15600](http://arxiv.org/abs/2603.15600)|null|
+|**2026-03-16**|**Unbiased and Biased Variance-Reduced Forward-Reflected-Backward Splitting Methods for Stochastic Composite Inclusions**|Nghia Nguyen-Trung Team|[2603.15576](http://arxiv.org/abs/2603.15576)|null|
+|**2026-03-16**|**RoCo Challenge at AAAI 2026: Benchmarking Robotic Collaborative Manipulation for Assembly Towards Industrial Automation**|Ziwei Wang Team|[2603.15469](http://arxiv.org/abs/2603.15469)|null|
+|**2026-03-16**|**Evasive Intelligence: Lessons from Malware Analysis for Evaluating AI Agents**|Daniele Perito Team|[2603.15457](http://arxiv.org/abs/2603.15457)|null|
+|**2026-03-16**|**Deep Reinforcement Learning for Fano Hypersurfaces**|Marc Truter Team|[2603.15437](http://arxiv.org/abs/2603.15437)|null|
+|**2026-03-16**|**Listening to the Echo: User-Reaction Aware Policy Optimization via Scalar-Verbal Hybrid Reinforcement Learning**|Chengqing Zong Team|[2603.15434](http://arxiv.org/abs/2603.15434)|null|
+|**2026-03-16**|**Gym-V: A Unified Vision Environment System for Agentic Vision Research**|Fanqing Meng Lingxiao Du Jiawei Gu Jiaqi Liao Linjie Li Zijian Wu Xiangyan Liu Ziqi Zhao Mengkang Hu Yue Zhang Zichen Liu Jiaheng Zhang Michael Qizhe Shieh Team|[2603.15432](http://arxiv.org/abs/2603.15432)|null|
+|**2026-03-16**|**MA-VLCM: A Vision Language Critic Model for Value Estimation of Policies in Multi-Agent Team Settings**|Yue Wang Team|[2603.15418](http://arxiv.org/abs/2603.15418)|null|
+|**2026-03-16**|**Amplification Effects in Test-Time Reinforcement Learning: Safety and Reasoning Vulnerabilities**|Ye Wang Team|[2603.15417](http://arxiv.org/abs/2603.15417)|null|
+|**2026-03-16**|**End-to-End Dexterous Grasp Learning from Single-View Point Clouds via a Multi-Object Scene Dataset**|Fenglei Ni Team|[2603.15410](http://arxiv.org/abs/2603.15410)|null|
+|**2026-03-16**|**Fusian: Multi-LoRA Fusion for Fine-Grained Continuous MBTI Personality Control in Large Language Models**|Rong Pan Team|[2603.15405](http://arxiv.org/abs/2603.15405)|null|
+|**2026-03-16**|**Trajectory-Diversity-Driven Robust Vision-and-Language Navigation**|Yihong Gong Team|[2603.15370](http://arxiv.org/abs/2603.15370)|null|
+|**2026-03-16**|**NavThinker: Action-Conditioned World Models for Coupled Prediction and Planning in Social Navigation**|Junwei Liang Team|[2603.15359](http://arxiv.org/abs/2603.15359)|null|
+|**2026-03-16**|**CCTU: A Benchmark for Tool Use under Complex Constraints**|Xuanjing Huang Team|[2603.15309](http://arxiv.org/abs/2603.15309)|null|
+|**2026-03-16**|**The Impact of AI-Assisted Development on Software Security: A Study of Gemini and Developer Experience**|Alena Naiakshina Team|[2603.15298](http://arxiv.org/abs/2603.15298)|null|
+|**2026-03-16**|**Evaluating the Robustness of Reinforcement Learning based Adaptive Traffic Signal Control**|Michael Hunter Team|[2603.15283](http://arxiv.org/abs/2603.15283)|null|
+|**2026-03-16**|**MoE-ACT: Scaling Multi-Task Bimanual Manipulation with Sparse Language-Conditioned Mixture-of-Experts Transformers**|Jun Ma Team|[2603.15265](http://arxiv.org/abs/2603.15265)|null|
+|**2026-03-16**|**Probe-then-Plan: Environment-Aware Planning for Industrial E-commerce Search**|Jin Li Team|[2603.15262](http://arxiv.org/abs/2603.15262)|null|
+|**2026-03-16**|**SAGE: Multi-Agent Self-Evolution for LLM Reasoning**|F. Richard Yu Team|[2603.15255](http://arxiv.org/abs/2603.15255)|null|
+|**2026-03-16**|**Towards Foundation Models for Consensus Rank Aggregation**|Emmanuel Müller Team|[2603.15218](http://arxiv.org/abs/2603.15218)|null|
+|**2026-03-16**|**NavGSim: High-Fidelity Gaussian Splatting Simulator for Large-Scale Navigation**|He Wang Team|[2603.15186](http://arxiv.org/abs/2603.15186)|null|
+|**2026-03-16**|**What Matters for Scalable and Robust Learning in End-to-End Driving Planners?**|Bernt Schiele Team|[2603.15185](http://arxiv.org/abs/2603.15185)|null|
+|**2026-03-16**|**Iterative Learning Control-Informed Reinforcement Learning for Batch Process Control**|Hongye Su Team|[2603.15180](http://arxiv.org/abs/2603.15180)|null|
+|**2026-03-16**|**KiRAS: Keyframe Guided Self-Imitation for Robust and Adaptive Skill Learning in Quadruped Robots**|Lihua Zhang Team|[2603.15179](http://arxiv.org/abs/2603.15179)|null|
+|**2026-03-16**|**Multi-Scale Control of Large Agent Populations: From Density Dynamics to Individual Actuation**|Mario di Bernardo Team|[2603.15160](http://arxiv.org/abs/2603.15160)|null|
+|**2026-03-16**|**Master Micro Residual Correction with Adaptive Tactile Fusion and Force-Mixed Control for Contact-Rich Manipulation**|Wenbo Ding Team|[2603.15152](http://arxiv.org/abs/2603.15152)|null|
+|**2026-03-16**|**Safe Flow Q-Learning: Offline Safe Reinforcement Learning with Reachability-Based Flow Policies**|Ravi Prakash Team|[2603.15136](http://arxiv.org/abs/2603.15136)|null|
+|**2026-03-16**|**Confusion-Aware In-Context-Learning for Vision-Language Models in Robotic Manipulation**|Jianzong Wang Team|[2603.15134](http://arxiv.org/abs/2603.15134)|null|
+|**2026-03-16**|**MMKU-Bench: A Multimodal Update Benchmark for Diverse Visual Knowledge**|Yi Wan Team|[2603.15117](http://arxiv.org/abs/2603.15117)|null|
+|**2026-03-16**|**Sampling-guided exploration of active feature selection policies**|Nicolas Duchateau Team|[2603.15110](http://arxiv.org/abs/2603.15110)|null|
+|**2026-03-16**|**HALO:Closing Sim-to-Real Gap for Heavy-loaded Humanoid Agile Motion Skills via Differentiable Simulation**|Shiqiang Zhu Team|[2603.15084](http://arxiv.org/abs/2603.15084)|null|
+|**2026-03-16**|**Writer-R1: Enhancing Generative Writing in LLMs via Memory-augmented Replay Policy Optimization**|Biao Qin Team|[2603.15061](http://arxiv.org/abs/2603.15061)|null|
+|**2026-03-16**|**Interference-Aware K-Step Reachable Communication in Multi-Agent Reinforcement Learning**|Jun Yang Team|[2603.15054](http://arxiv.org/abs/2603.15054)|null|
+|**2026-03-16**|**AnoleVLA: Lightweight Vision-Language-Action Model with Deep State Space Models for Mobile Manipulation**|Komei Sugiura Team|[2603.15046](http://arxiv.org/abs/2603.15046)|null|
+|**2026-03-16**|**VTC-Bench: Evaluating Agentic Multimodal Models via Compositional Visual Tool Chaining**|Yuan Zhou Team|[2603.15030](http://arxiv.org/abs/2603.15030)|null|
+|**2026-03-16**|**CycleRL: Sim-to-Real Deep Reinforcement Learning for Robust Autonomous Bicycle Control**|Xiangwei Zhu Team|[2603.15013](http://arxiv.org/abs/2603.15013)|null|
+|**2026-03-16**|**Molecular Identifier Visual Prompt and Verifiable Reinforcement Learning for Chemical Reaction Diagram Parsing**|Conghui He Team|[2603.15011](http://arxiv.org/abs/2603.15011)|null|
+|**2026-03-16**|**Beyond Benchmark Islands: Toward Representative Trustworthiness Evaluation for Agentic AI**|Irwin King Team|[2603.14987](http://arxiv.org/abs/2603.14987)|null|
 |**2026-03-16**|**CyCLeGen: Cycle-Consistent Layout Prediction and Image Generation in Vision Foundation Models**|Zhuowen Tu Team|[2603.14957](http://arxiv.org/abs/2603.14957)|null|
 |**2026-03-16**|**EditHF-1M: A Million-Scale Rich Human Preference Feedback for Image Editing**|Guangtao Zhai Team|[2603.14916](http://arxiv.org/abs/2603.14916)|null|
 |**2026-03-16**|**PerlAD: Towards Enhanced Closed-loop End-to-end Autonomous Driving with Pseudo-simulation-based Reinforcement Learning**|Dongbin Zhao Team|[2603.14908](http://arxiv.org/abs/2603.14908)|null|
@@ -9527,6 +9600,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-16**|**Anatomy of a Lie: A Multi-Stage Diagnostic Framework for Tracing Hallucinations in Vision-Language Models**|Xinchao Wang Team|[2603.15557](http://arxiv.org/abs/2603.15557)|null|
+|**2026-03-16**|**Beyond the Covariance Trap: Unlocking Generalization in Same-Subject Knowledge Editing for Large Language Models**|Zheng Lin Team|[2603.15518](http://arxiv.org/abs/2603.15518)|null|
+|**2026-03-16**|**ViX-Ray: A Vietnamese Chest X-Ray Dataset for Vision-Language Models**|Kiet Van Nguyen Team|[2603.15513](http://arxiv.org/abs/2603.15513)|null|
+|**2026-03-16**|**MA-VLCM: A Vision Language Critic Model for Value Estimation of Policies in Multi-Agent Team Settings**|Yue Wang Team|[2603.15418](http://arxiv.org/abs/2603.15418)|null|
+|**2026-03-16**|**Pointing-Based Object Recognition**|Viktor Kocur Team|[2603.15403](http://arxiv.org/abs/2603.15403)|null|
+|**2026-03-16**|**CCTU: A Benchmark for Tool Use under Complex Constraints**|Xuanjing Huang Team|[2603.15309](http://arxiv.org/abs/2603.15309)|null|
+|**2026-03-16**|**Directional Embedding Smoothing for Robust Vision Language Models**|Toshiaki Koike-Akino Team|[2603.15259](http://arxiv.org/abs/2603.15259)|null|
+|**2026-03-16**|**HalDec-Bench: Benchmarking Hallucination Detector in Image Captioning**|Yoshitaka Ushiku Team|[2603.15253](http://arxiv.org/abs/2603.15253)|null|
+|**2026-03-16**|**Multi-turn Physics-informed Vision-language Model for Physics-grounded Anomaly Detection**|Yingna Wu Team|[2603.15237](http://arxiv.org/abs/2603.15237)|null|
+|**2026-03-16**|**Efficient Document Parsing via Parallel Token Prediction**|Zang Li Team|[2603.15206](http://arxiv.org/abs/2603.15206)|null|
+|**2026-03-16**|**DAIT: Distillation from Vision-Language Models to Lightweight Classifiers with Adaptive Intermediate Teacher Transfer**|Zhijian Wu Team|[2603.15166](http://arxiv.org/abs/2603.15166)|null|
+|**2026-03-16**|**Vision-Language Model Based Multi-Expert Fusion for CT Image Classification**|Rui Feng Team|[2603.15154](http://arxiv.org/abs/2603.15154)|null|
+|**2026-03-16**|**Confusion-Aware In-Context-Learning for Vision-Language Models in Robotic Manipulation**|Jianzong Wang Team|[2603.15134](http://arxiv.org/abs/2603.15134)|null|
+|**2026-03-16**|**VAREX: A Benchmark for Multi-Modal Structured Extraction from Documents**|Abraham Daniels Team|[2603.15118](http://arxiv.org/abs/2603.15118)|**[link](https://huggingface.co/datasets/ibm-research/VAREX)**|
+|**2026-03-16**|**Beam Prediction Based on Multimodal Large Language Models**|Shi Jin Team|[2603.15093](http://arxiv.org/abs/2603.15093)|null|
+|**2026-03-16**|**Molecular Identifier Visual Prompt and Verifiable Reinforcement Learning for Chemical Reaction Diagram Parsing**|Conghui He Team|[2603.15011](http://arxiv.org/abs/2603.15011)|null|
+|**2026-03-16**|**MMSpec: Benchmarking Speculative Decoding for Vision-Language Models**|Mi Zhang Team|[2603.14989](http://arxiv.org/abs/2603.14989)|null|
 |**2026-03-16**|**Balancing Saliency and Coverage: Semantic Prominence-Aware Budgeting for Visual Token Compression in VLMs**|Sungroh Yoon Team|[2603.14892](http://arxiv.org/abs/2603.14892)|null|
 |**2026-03-16**|**LLMind: Bio-inspired Training-free Adaptive Visual Representations for Vision-Language Models**|Lin Wang Team|[2603.14882](http://arxiv.org/abs/2603.14882)|null|
 |**2026-03-16**|**RealVLG-R1: A Large-Scale Real-World Visual-Language Grounding Benchmark for Robotic Perception and Manipulation**|Ying Shen Team|[2603.14880](http://arxiv.org/abs/2603.14880)|null|
@@ -9631,7 +9721,7 @@
 |**2026-03-12**|**RADAR: Closed-Loop Robotic Data Generation via Semantic Planning and Autonomous Causal Environment Reset**|Feng Zheng Team|[2603.11811](http://arxiv.org/abs/2603.11811)|null|
 |**2026-03-12**|**OSM-based Domain Adaptation for Remote Sensing VLMs**|Danda Pani Paudel Team|[2603.11804](http://arxiv.org/abs/2603.11804)|null|
 |**2026-03-12**|**Multi-Task Reinforcement Learning for Enhanced Multimodal LLM-as-a-Judge**|Kaitai Zhang Team|[2603.11665](http://arxiv.org/abs/2603.11665)|null|
-|**2026-03-12**|**BackdoorIDS: Zero-shot Backdoor Detection for Pretrained Vision Encoder**|Leyu Shi Team|[2603.11664](http://arxiv.org/abs/2603.11664)|null|
+|**2026-03-16**|**BackdoorIDS: Zero-shot Backdoor Detection for Pretrained Vision Encoder**|Ying Gao Team|[2603.11664](http://arxiv.org/abs/2603.11664)|null|
 |**2026-03-12**|**VisDoT : Enhancing Visual Reasoning through Human-Like Interpretation Grounding and Decomposition of Thought**|Jihie Kim Team|[2603.11631](http://arxiv.org/abs/2603.11631)|null|
 |**2026-03-12**|**MedPruner: Training-Free Hierarchical Token Pruning for Efficient 3D Medical Image Understanding in Vision-Language Models**|Yixuan Yuan Team|[2603.11625](http://arxiv.org/abs/2603.11625)|null|
 |**2026-03-12**|**Noise-aware few-shot learning through bi-directional multi-view prompt alignment**|Cheng Xue Team|[2603.11617](http://arxiv.org/abs/2603.11617)|null|
@@ -9690,7 +9780,7 @@
 |**2026-03-11**|**Prune Redundancy, Preserve Essence: Vision Token Compression in VLMs via Synergistic Importance-Diversity**|Wenjie Pei Team|[2603.09480](http://arxiv.org/abs/2603.09480)|null|
 |**2026-03-10**|**MORE-R1: Guiding LVLM for Multimodal Object-Entity Relation Extraction via Stepwise Reasoning with Reinforcement Learning**|Tong Mo Team|[2603.09478](http://arxiv.org/abs/2603.09478)|null|
 |**2026-03-10**|**OmniEarth: A Benchmark for Evaluating Vision-Language Models in Geospatial Tasks**|Bo Yang Team|[2603.09471](http://arxiv.org/abs/2603.09471)|null|
-|**2026-03-10**|**Open-World Motion Forecasting**|Abhinav Valada Team|[2603.09420](http://arxiv.org/abs/2603.09420)|null|
+|**2026-03-16**|**Open-World Motion Forecasting**|Abhinav Valada Team|[2603.09420](http://arxiv.org/abs/2603.09420)|null|
 |**2026-03-10**|**Reasoning-Oriented Programming: Chaining Semantic Gadgets to Jailbreak Large Vision Language Models**|Xiangzheng Zhang Team|[2603.09246](http://arxiv.org/abs/2603.09246)|null|
 |**2026-03-10**|**MM-Zero: Self-Evolving Multi-Model Vision Language Models From Zero Data**|Fuxiao Liu Team|[2603.09206](http://arxiv.org/abs/2603.09206)|null|
 |**2026-03-10**|**ZeroWBC: Learning Natural Visuomotor Humanoid Control Directly from Human Egocentric Video**|Xuelong Li Team|[2603.09170](http://arxiv.org/abs/2603.09170)|null|
@@ -9884,7 +9974,7 @@
 |**2026-03-02**|**Learning to Read Where to Look: Disease-Aware Vision-Language Pretraining for 3D CT**|Thomas Brox Team|[2603.02026](http://arxiv.org/abs/2603.02026)|null|
 |**2026-03-02**|**CharacterFlywheel: Scaling Iterative Improvement of Engaging and Steerable LLMs in Production**|Kevin Tang Team|[2603.01973](http://arxiv.org/abs/2603.01973)|null|
 |**2026-03-02**|**Semantic Similarity is a Spurious Measure of Comic Understanding: Lessons Learned from Hallucinations in a Benchmarking Experiment**|Bonnie Dorr Team|[2603.01950](http://arxiv.org/abs/2603.01950)|null|
-|**2026-03-02**|**Generative Visual Chain-of-Thought for Image Editing**|Zhanyu Ma Team|[2603.01893](http://arxiv.org/abs/2603.01893)|**[link](https://pris-cv.github.io/GVCoT/)**|
+|**2026-03-16**|**Generative Visual Chain-of-Thought for Image Editing**|Zhanyu Ma Team|[2603.01893](http://arxiv.org/abs/2603.01893)|**[link](https://pris-cv.github.io/GVCoT/)**|
 |**2026-03-02**|**FireRed-OCR Technical Report**|Changhao Qiao Team|[2603.01840](http://arxiv.org/abs/2603.01840)|null|
 |**2026-03-02**|**SSMG-Nav: Enhancing Lifelong Object Navigation with Semantic Skeleton Memory Graph**|Fei Wen Team|[2603.01813](http://arxiv.org/abs/2603.01813)|null|
 |**2026-03-05**|**FreeAct: Freeing Activations for LLM Quantization**|Tat-Seng Chua Team|[2603.01776](http://arxiv.org/abs/2603.01776)|null|
@@ -11750,6 +11840,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-16**|**Towards Generalizable Robotic Manipulation in Dynamic Environments**|Xiang Bai Team|[2603.15620](http://arxiv.org/abs/2603.15620)|null|
+|**2026-03-16**|**Look Before Acting: Enhancing Vision Foundation Representations for Vision-Language-Action Models**|Shanghang Zhang Team|[2603.15618](http://arxiv.org/abs/2603.15618)|null|
+|**2026-03-16**|**MA-VLCM: A Vision Language Critic Model for Value Estimation of Policies in Multi-Agent Team Settings**|Yue Wang Team|[2603.15418](http://arxiv.org/abs/2603.15418)|null|
+|**2026-03-16**|**HapticVLA: Contact-Rich Manipulation via Vision-Language-Action Model without Inference-Time Tactile Sensing**|Dzmitry Tsetserukou Team|[2603.15257](http://arxiv.org/abs/2603.15257)|null|
+|**2026-03-16**|**NavGSim: High-Fidelity Gaussian Splatting Simulator for Large-Scale Navigation**|He Wang Team|[2603.15186](http://arxiv.org/abs/2603.15186)|null|
+|**2026-03-16**|**ForceVLA2: Unleashing Hybrid Force-Position Control with Force Awareness for Contact-Rich Manipulation**|Jiangmiao Pang Team|[2603.15169](http://arxiv.org/abs/2603.15169)|null|
+|**2026-03-16**|**AnoleVLA: Lightweight Vision-Language-Action Model with Deep State Space Models for Mobile Manipulation**|Komei Sugiura Team|[2603.15046](http://arxiv.org/abs/2603.15046)|null|
+|**2026-03-16**|**ReMAP-DP: Reprojected Multi-view Aligned PointMaps for Diffusion Policy**|Xuesong Li Team|[2603.14977](http://arxiv.org/abs/2603.14977)|null|
+|**2026-03-16**|**Learning from Mistakes: Post-Training for Driving VLA with Takeover Data**|Dongbin Zhao Team|[2603.14972](http://arxiv.org/abs/2603.14972)|null|
 |**2026-03-16**|**AutoMoT: A Unified Vision-Language-Action Model with Asynchronous Mixture-of-Transformers for End-to-End Autonomous Driving**|Chen Lv Team|[2603.14851](http://arxiv.org/abs/2603.14851)|null|
 |**2026-03-15**|**Tactile Modality Fusion for Vision-Language-Action Models**|Gregory Dudek Team|[2603.14604](http://arxiv.org/abs/2603.14604)|null|
 |**2026-03-15**|**VLA-Thinker: Boosting Vision-Language-Action Models through Thinking-with-Image Reasoning**|Yuzhang Shang Team|[2603.14523](http://arxiv.org/abs/2603.14523)|null|
@@ -12593,12 +12692,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-16**|**HSImul3R: Physics-in-the-Loop Reconstruction of Simulation-Ready Human-Scene Interactions**|Ziwei Liu Team|[2603.15612](http://arxiv.org/abs/2603.15612)|**[link](https://yukangcao.github.io/HSImul3R/)**|
+|**2026-03-16**|**HALO:Closing Sim-to-Real Gap for Heavy-loaded Humanoid Agile Motion Skills via Differentiable Simulation**|Shiqiang Zhu Team|[2603.15084](http://arxiv.org/abs/2603.15084)|null|
 |**2026-03-16**|**Exploring the dynamic properties and motion reproducibility of a small upper-body humanoid robot with 13-DOF pneumatic actuation for data-driven control**|Minoru Asada Team|[2603.14787](http://arxiv.org/abs/2603.14787)|null|
 |**2026-03-15**|**CyboRacket: A Perception-to-Action Framework for Humanoid Racket Sports**|Kai Chen Team|[2603.14605](http://arxiv.org/abs/2603.14605)|null|
 |**2026-03-15**|**OmniClone: Engineering a Robust, All-Rounder Whole-Body Humanoid Teleoperation System**|Siyuan Huang Team|[2603.14327](http://arxiv.org/abs/2603.14327)|**[link](https://omniclone.github.io/)**|
 |**2026-03-15**|**Load-Aware Locomotion Control for Humanoid Robots in Industrial Transportation Tasks**|Shiqi Li Team|[2603.14308](http://arxiv.org/abs/2603.14308)|null|
 |**2026-03-14**|**REFINE-DP: Diffusion Policy Fine-tuning for Humanoid Loco-manipulation via Reinforcement Learning**|Ye Zhao Team|[2603.13707](http://arxiv.org/abs/2603.13707)|null|
-|**2026-03-13**|**PhysMoDPO: Physically-Plausible Humanoid Motion with Preference Optimization**|Ivan Laptev Team|[2603.13228](http://arxiv.org/abs/2603.13228)|null|
+|**2026-03-16**|**PhysMoDPO: Physically-Plausible Humanoid Motion with Preference Optimization**|Ivan Laptev Team|[2603.13228](http://arxiv.org/abs/2603.13228)|**[link](https://mael-zys.github.io/PhysMoDPO/)**|
 |**2026-03-13**|**Learning Athletic Humanoid Tennis Skills from Imperfect Human Motion Data**|Li Yi Team|[2603.12686](http://arxiv.org/abs/2603.12686)|null|
 |**2026-03-12**|**$Ψ_0$ : An Open Foundation Model Towards Universal Humanoid Loco-Manipulation**|Yue Wang Team|[2603.12263](http://arxiv.org/abs/2603.12263)|null|
 |**2026-03-12**|**SPARK: Skeleton-Parameter Aligned Retargeting on Humanoid Robots with Kinodynamic Trajectory Optimization**|Xiaobin Xiong Team|[2603.11480](http://arxiv.org/abs/2603.11480)|null|
@@ -13373,7 +13474,7 @@
 |**2025-09-23**|**Lang2Morph: Language-Driven Morphological Design of Robotic Hands**|Josie Hughes Team|[2509.18937](http://arxiv.org/abs/2509.18937)|null|
 |**2025-10-05**|**Learning Geometry-Aware Nonprehensile Pushing and Pulling with Dexterous Hands**|Daniel Seita Team|[2509.18455](http://arxiv.org/abs/2509.18455)|null|
 |**2025-11-18**|**Tac2Motion: Contact-Aware Reinforcement Learning with Tactile Feedback for Robotic Hand Manipulation**|Christoffer Sloth Team|[2509.17812](http://arxiv.org/abs/2509.17812)|null|
-|**2025-09-22**|**Learning Dexterous Manipulation with Quantized Hand State**|Cewu Lu Team|[2509.17450](http://arxiv.org/abs/2509.17450)|null|
+|**2026-03-16**|**Learning Dexterous Manipulation with Quantized Hand State**|Cewu Lu Team|[2509.17450](http://arxiv.org/abs/2509.17450)|null|
 |**2025-09-21**|**FILIC: Dual-Loop Force-Guided Imitation Learning with Impedance Torque Control for Contact-Rich Manipulation Tasks**|Guyue Zhou Team|[2509.17053](http://arxiv.org/abs/2509.17053)|null|
 |**2025-09-18**|**The Role of Touch: Towards Optimal Tactile Sensing Distribution in Anthropomorphic Hands for Dexterous In-Hand Manipulation**|José Santos-Victor Team|[2509.14984](http://arxiv.org/abs/2509.14984)|null|
 |**2025-09-18**|**A Novel Task-Driven Diffusion-Based Policy with Affordance Learning for Generalizable Manipulation of Articulated Objects**|Yongduan Song Team|[2509.14939](http://arxiv.org/abs/2509.14939)|null|
@@ -13814,6 +13915,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-16**|**Do Metrics for Counterfactual Explanations Align with User Perception?**|Christoph Düsing Team|[2603.15607](http://arxiv.org/abs/2603.15607)|null|
+|**2026-03-16**|**Grounding World Simulation Models in a Real-World Metropolis**|Jin-Hwa Kim Team|[2603.15583](http://arxiv.org/abs/2603.15583)|**[link](https://seoul-world-model.github.io/)**|
+|**2026-03-16**|**Mamba-3: Improved Sequence Modeling using State Space Principles**|Albert Gu Team|[2603.15569](http://arxiv.org/abs/2603.15569)|null|
+|**2026-03-16**|**DUET: Disaggregated Hybrid Mamba-Transformer LLMs with Prefill and Decode-Specific Packages**|Umit Y. Ogras Team|[2603.15530](http://arxiv.org/abs/2603.15530)|null|
+|**2026-03-16**|**Optimal control of differentially flat underactuated planar robots in the perspective of oscillation mitigation**|Giulio Rosati Team|[2603.15528](http://arxiv.org/abs/2603.15528)|null|
+|**2026-03-16**|**NavThinker: Action-Conditioned World Models for Coupled Prediction and Planning in Social Navigation**|Junwei Liang Team|[2603.15359](http://arxiv.org/abs/2603.15359)|null|
+|**2026-03-16**|**Data Augmentation via Causal-Residual Bootstrapping**|Bijan Mazaheri Team|[2603.15335](http://arxiv.org/abs/2603.15335)|null|
+|**2026-03-16**|**A Methodology for Dynamic Parameters Identification of 3-DOF Parallel Robots in Terms of Relevant Parameters**|Alvaro Page Team|[2603.15254](http://arxiv.org/abs/2603.15254)|null|
+|**2026-03-16**|**Storage and selection of multiple chaotic attractors in minimal reservoir computers**|Holger Kantz Team|[2603.15155](http://arxiv.org/abs/2603.15155)|null|
+|**2026-03-16**|**Sampling-guided exploration of active feature selection policies**|Nicolas Duchateau Team|[2603.15110](http://arxiv.org/abs/2603.15110)|null|
+|**2026-03-16**|**PAKAN: Pixel Adaptive Kolmogorov-Arnold Network Modules for Pansharpening**|Liangjian Deng Team|[2603.15109](http://arxiv.org/abs/2603.15109)|null|
+|**2026-03-16**|**The Evolution of Computer-Assisted Proof In Analysis**|Marek Rychlik Team|[2603.15073](http://arxiv.org/abs/2603.15073)|null|
+|**2026-03-16**|**AnoleVLA: Lightweight Vision-Language-Action Model with Deep State Space Models for Mobile Manipulation**|Komei Sugiura Team|[2603.15046](http://arxiv.org/abs/2603.15046)|null|
+|**2026-03-16**|**CycleRL: Sim-to-Real Deep Reinforcement Learning for Robust Autonomous Bicycle Control**|Xiangwei Zhu Team|[2603.15013](http://arxiv.org/abs/2603.15013)|null|
 |**2026-03-16**|**Bridging Scene Generation and Planning: Driving with World Model via Unifying Vision and Motion Representation**|Jianbing Shen Team|[2603.14948](http://arxiv.org/abs/2603.14948)|**[link](https://github.com/TabGuigui/WorldDrive)**|
 |**2026-03-16**|**RS-WorldModel: a Unified Model for Remote Sensing Understanding and Future Sense Forecasting**|Haifeng Li Team|[2603.14941](http://arxiv.org/abs/2603.14941)|null|
 |**2026-03-16**|**PerlAD: Towards Enhanced Closed-loop End-to-end Autonomous Driving with Pseudo-simulation-based Reinforcement Learning**|Dongbin Zhao Team|[2603.14908](http://arxiv.org/abs/2603.14908)|null|
@@ -13867,7 +13982,7 @@
 |**2026-03-12**|**Recent Computational Advances in Dense Suspension Mechanics**|Abhinendra Singh Team|[2603.12410](http://arxiv.org/abs/2603.12410)|null|
 |**2026-03-12**|**Modeling diesel output particulate matter as the Ornstein-Uhlenbeck process**|Ilias Bilionis Team|[2603.12356](http://arxiv.org/abs/2603.12356)|null|
 |**2026-03-12**|**Spatial PDE-aware Selective State-space with Nested Memory for Mobile Traffic Grid Forecasting**|Andreas Kassler Team|[2603.12353](http://arxiv.org/abs/2603.12353)|null|
-|**2026-03-12**|**Optimizing Task Completion Time Updates Using POMDPs**|Mykel J. Kochenderfer Team|[2603.12340](http://arxiv.org/abs/2603.12340)|null|
+|**2026-03-16**|**Optimizing Task Completion Time Updates Using POMDPs**|Mykel J. Kochenderfer Team|[2603.12340](http://arxiv.org/abs/2603.12340)|null|
 |**2026-03-12**|**Temporal Straightening for Latent Planning**|Mengye Ren Team|[2603.12231](http://arxiv.org/abs/2603.12231)|null|
 |**2026-03-12**|**CLASP: Defending Hybrid Large Language Models Against Hidden State Poisoning Attacks**|Chris Develder Team|[2603.12206](http://arxiv.org/abs/2603.12206)|null|
 |**2026-03-12**|**Integrated Online Monitoring and Adaption of Process Model Predictive Controllers**|Riccardo Scattolini Team|[2603.12187](http://arxiv.org/abs/2603.12187)|null|
@@ -13997,7 +14112,7 @@
 |**2026-03-05**|**Planning in 8 Tokens: A Compact Discrete Tokenizer for Latent World Model**|Suha Kwak Team|[2603.05438](http://arxiv.org/abs/2603.05438)|null|
 |**2026-03-05**|**The effect of a toroidal opinion space on opinion bi-polarisation**|Michel R. H. Mandjes Team|[2603.05337](http://arxiv.org/abs/2603.05337)|null|
 |**2026-03-05**|**How important are the genes to explain the outcome - the asymmetric Shapley value as an honest importance metric for high-dimensional features**|Kjersti Aas Team|[2603.05317](http://arxiv.org/abs/2603.05317)|null|
-|**2026-03-05**|**BLINK: Behavioral Latent Modeling of NK Cell Cytotoxicity**|Maria Kalweit Team|[2603.05110](http://arxiv.org/abs/2603.05110)|null|
+|**2026-03-16**|**BLINK: Behavioral Latent Modeling of NK Cell Cytotoxicity**|Maria Kalweit Team|[2603.05110](http://arxiv.org/abs/2603.05110)|null|
 |**2026-03-05**|**When minor issues matter: symmetries, pluralism, and polarization in similarity-based opinion dynamics**|Natalia L. Komarova Team|[2603.04939](http://arxiv.org/abs/2603.04939)|null|
 |**2026-03-05**|**DeformTrace: A Deformable State Space Model with Relay Tokens for Temporal Forgery Localization**|Zhongyuan Wang Team|[2603.04882](http://arxiv.org/abs/2603.04882)|null|
 |**2026-03-05**|**Data-Driven Control of a Magnetically Actuated Fish-Like Robot**|Hiroaki Kawashima Team|[2603.04787](http://arxiv.org/abs/2603.04787)|null|
@@ -14083,7 +14198,7 @@
 |**2026-03-05**|**Theory of Code Space: Do Code Agents Understand Software Architecture?**|Grigory Sapunov Team|[2603.00601](http://arxiv.org/abs/2603.00601)|null|
 |**2026-02-28**|**Liquid Metals Routes towards Making Superconductors**|Jing Liu Team|[2603.00591](http://arxiv.org/abs/2603.00591)|null|
 |**2026-02-28**|**Efficient Long-Sequence Diffusion Modeling for Symbolic Music Generation**|Guangli Xiang Team|[2603.00576](http://arxiv.org/abs/2603.00576)|null|
-|**2026-02-28**|**EMPA: Evaluating Persona-Aligned Empathy as a Process**|Xiaofan Zhang Team|[2603.00552](http://arxiv.org/abs/2603.00552)|null|
+|**2026-03-16**|**EMPA: Evaluating Persona-Aligned Empathy as a Process**|Xiaofan Zhang Team|[2603.00552](http://arxiv.org/abs/2603.00552)|null|
 |**2026-02-28**|**DreamWorld: Unified World Modeling in Video Generation**|Yanyong Zhang Team|[2603.00466](http://arxiv.org/abs/2603.00466)|null|
 |**2026-02-28**|**Mamba-CAD: State Space Model For 3D Computer-Aided Design Generative Modeling**|Xiangdong Zhou Team|[2603.00439](http://arxiv.org/abs/2603.00439)|null|
 |**2026-03-03**|**NeuroHex: Highly-Efficient Hex Coordinate System for Creating World Models to Enable Adaptive AI**|John Paul Shen Team|[2603.00376](http://arxiv.org/abs/2603.00376)|null|
@@ -15511,6 +15626,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-16**|**HSImul3R: Physics-in-the-Loop Reconstruction of Simulation-Ready Human-Scene Interactions**|Ziwei Liu Team|[2603.15612](http://arxiv.org/abs/2603.15612)|**[link](https://yukangcao.github.io/HSImul3R/)**|
+|**2026-03-16**|**Nonequilibrium energetics of sensing and actuation by a smart active particle**|Lorenzo Piro Team|[2603.15602](http://arxiv.org/abs/2603.15602)|null|
+|**2026-03-16**|**Panoramic Affordance Prediction**|Ying-Cong Chen Team|[2603.15558](http://arxiv.org/abs/2603.15558)|null|
+|**2026-03-16**|**Trajectory-Diversity-Driven Robust Vision-and-Language Navigation**|Yihong Gong Team|[2603.15370](http://arxiv.org/abs/2603.15370)|null|
 |**2026-03-16**|**Ego to World: Collaborative Spatial Reasoning in Embodied Systems via Reinforcement Learning**|Zhenfei Yin Team|[2603.14811](http://arxiv.org/abs/2603.14811)|null|
 |**2026-03-16**|**HiMemVLN: Enhancing Reliability of Open-Source Zero-Shot Vision-and-Language Navigation with Hierarchical Memory System**|Ce Hao Team|[2603.14807](http://arxiv.org/abs/2603.14807)|null|
 |**2026-03-15**|**OxyGen: Unified KV Cache Management for Vision-Language-Action Models under Multi-Task Parallelism**|Yunxin Liu Team|[2603.14371](http://arxiv.org/abs/2603.14371)|null|
@@ -15767,7 +15886,7 @@
 |**2025-11-17**|**Shedding Light on VLN Robustness: A Black-box Framework for Indoor Lighting-based Adversarial Attack**|Yang Liu Team|[2511.13132](http://arxiv.org/abs/2511.13132)|null|
 |**2025-11-15**|**Fast Reasoning Segmentation for Images and Videos**|Mathias Unberath Team|[2511.12368](http://arxiv.org/abs/2511.12368)|null|
 |**2025-11-15**|**SRSplat: Feed-Forward Super-Resolution Gaussian Splatting from Sparse Multi-View Images**|Min Tan Team|[2511.12040](http://arxiv.org/abs/2511.12040)|**[link](https://xinyuanhu66.github.io/SRSplat/)**|
-|**2026-02-21**|**MSGNav: Unleashing the Power of Multi-modal 3D Scene Graph for Zero-Shot Embodied Navigation**|Chenglu Wen Team|[2511.10376](http://arxiv.org/abs/2511.10376)|null|
+|**2026-03-16**|**MSGNav: Unleashing the Power of Multi-modal 3D Scene Graph for Zero-Shot Embodied Navigation**|Chenglu Wen Team|[2511.10376](http://arxiv.org/abs/2511.10376)|null|
 |**2025-11-13**|**EnvTrace: Simulation-Based Semantic Evaluation of LLM Code via Execution Trace Alignment -- Demonstrated at Synchrotron Beamlines**|Esther H. R. Tsai Team|[2511.09964](http://arxiv.org/abs/2511.09964)|null|
 |**2025-11-12**|**Expand Your SCOPE: Semantic Cognition over Potential-Based Exploration for Embodied Visual Navigation**|Hongbin Sun Team|[2511.08935](http://arxiv.org/abs/2511.08935)|null|
 |**2025-11-12**|**EAGLE: Episodic Appearance- and Geometry-aware Memory for Unified 2D-3D Visual Query Localization in Egocentric Vision**|Xun Tu Team|[2511.08007](http://arxiv.org/abs/2511.08007)|null|
@@ -16192,6 +16311,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-16**|**CRASH: Cognitive Reasoning Agent for Safety Hazards in Autonomous Driving**|Ali Shoker Team|[2603.15364](http://arxiv.org/abs/2603.15364)|null|
+|**2026-03-16**|**ADV-0: Closed-Loop Min-Max Adversarial Training for Long-Tail Robustness in Autonomous Driving**|Jian Sun Team|[2603.15221](http://arxiv.org/abs/2603.15221)|null|
+|**2026-03-16**|**What Matters for Scalable and Robust Learning in End-to-End Driving Planners?**|Bernt Schiele Team|[2603.15185](http://arxiv.org/abs/2603.15185)|null|
+|**2026-03-16**|**Learning from Mistakes: Post-Training for Driving VLA with Takeover Data**|Dongbin Zhao Team|[2603.14972](http://arxiv.org/abs/2603.14972)|null|
 |**2026-03-16**|**Bridging Scene Generation and Planning: Driving with World Model via Unifying Vision and Motion Representation**|Jianbing Shen Team|[2603.14948](http://arxiv.org/abs/2603.14948)|**[link](https://github.com/TabGuigui/WorldDrive)**|
 |**2026-03-16**|**FAR-Drive: Frame-AutoRegressive Video Generation in Closed-Loop Autonomous Driving**|Qi Guo Team|[2603.14938](http://arxiv.org/abs/2603.14938)|null|
 |**2026-03-16**|**PerlAD: Towards Enhanced Closed-loop End-to-end Autonomous Driving with Pseudo-simulation-based Reinforcement Learning**|Dongbin Zhao Team|[2603.14908](http://arxiv.org/abs/2603.14908)|null|
@@ -16216,7 +16339,7 @@
 |**2026-03-13**|**Panoramic Multimodal Semantic Occupancy Prediction for Quadruped Robots**|Kailun Yang Team|[2603.13108](http://arxiv.org/abs/2603.13108)|**[link](https://github.com/SXDR/PanoMMOcc)**|
 |**2026-03-13**|**RoboStream: Weaving Spatio-Temporal Reasoning with Memory in Vision-Language Models for Robotics**|Zhi Wang Team|[2603.12939](http://arxiv.org/abs/2603.12939)|null|
 |**2026-03-13**|**VIRD: View-Invariant Representation through Dual-Axis Transformation for Cross-View Pose Estimation**|Hyun Myung Team|[2603.12918](http://arxiv.org/abs/2603.12918)|null|
-|**2026-03-13**|**Surprised by Attention: Predictable Query Dynamics for Time Series Anomaly Detection**|Markus Enzweiler Team|[2603.12916](http://arxiv.org/abs/2603.12916)|null|
+|**2026-03-16**|**Surprised by Attention: Predictable Query Dynamics for Time Series Anomaly Detection**|Markus Enzweiler Team|[2603.12916](http://arxiv.org/abs/2603.12916)|null|
 |**2026-03-13**|**Composing Driving Worlds through Disentangled Control for Adversarial Scenario Generation**|Yinqiang Zheng Team|[2603.12864](http://arxiv.org/abs/2603.12864)|null|
 |**2026-03-13**|**Improving critical buildings energy resilience via shared autonomous electric vehicles -- A sequential optimization framework**|Jakob Puchinger Team|[2603.12771](http://arxiv.org/abs/2603.12771)|null|
 |**2026-03-13**|**FC-Track: Overlap-Aware Post-Association Correction for Online Multi-Object Tracking**|Akio Namiki Team|[2603.12758](http://arxiv.org/abs/2603.12758)|null|
@@ -16251,7 +16374,7 @@
 |**2026-03-10**|**StyleVLA: Driving Style-Aware Vision Language Action Model for Autonomous Driving**|Johannes Betz Team|[2603.09482](http://arxiv.org/abs/2603.09482)|null|
 |**2026-03-14**|**EvoDriveVLA: Evolving Autonomous Driving Vision-Language-Action Model via Collaborative Perception-Planning Distillation**|Shanghang Zhang Team|[2603.09465](http://arxiv.org/abs/2603.09465)|null|
 |**2026-03-10**|**Declarative Scenario-based Testing with RoadLogic**|Dejan Ničković Team|[2603.09455](http://arxiv.org/abs/2603.09455)|null|
-|**2026-03-10**|**Open-World Motion Forecasting**|Abhinav Valada Team|[2603.09420](http://arxiv.org/abs/2603.09420)|null|
+|**2026-03-16**|**Open-World Motion Forecasting**|Abhinav Valada Team|[2603.09420](http://arxiv.org/abs/2603.09420)|null|
 |**2026-03-10**|**MetaDAT: Generalizable Trajectory Prediction via Meta Pre-training and Data-Adaptive Test-Time Updating**|Jianru Xue Team|[2603.09419](http://arxiv.org/abs/2603.09419)|null|
 |**2026-03-10**|**Multi-model approach for autonomous driving: A comprehensive study on traffic sign-, vehicle- and lane detection and behavioral cloning**|Mithun Mukherjee Team|[2603.09255](http://arxiv.org/abs/2603.09255)|null|
 |**2026-03-10**|**SPAN-Nav: Generalized Spatial Awareness for Versatile Vision-Language Navigation**|He Wang Team|[2603.09163](http://arxiv.org/abs/2603.09163)|null|
@@ -16333,7 +16456,7 @@
 |**2026-03-02**|**GroupEnsemble: Efficient Uncertainty Estimation for DETR-based Object Detection**|Bin Yang Team|[2603.01847](http://arxiv.org/abs/2603.01847)|null|
 |**2026-03-02**|**WhisperNet: A Scalable Solution for Bandwidth-Efficient Collaboration**|Xinyan Zhao Team|[2603.01708](http://arxiv.org/abs/2603.01708)|null|
 |**2026-03-02**|**DriveCombo: Benchmarking Compositional Traffic Rule Reasoning in Autonomous Driving**|Kaicheng Yu Team|[2603.01637](http://arxiv.org/abs/2603.01637)|null|
-|**2026-03-02**|**Benchmarking Semantic Segmentation Models via Appearance and Geometry Attribute Editing**|Jun Guo Team|[2603.01535](http://arxiv.org/abs/2603.01535)|null|
+|**2026-03-16**|**Benchmarking Semantic Segmentation Models via Appearance and Geometry Attribute Editing**|Jun Guo Team|[2603.01535](http://arxiv.org/abs/2603.01535)|null|
 |**2026-03-02**|**VidDoS: Universal Denial-of-Service Attack on Video-based Large Language Models**|Siqi Cai Team|[2603.01454](http://arxiv.org/abs/2603.01454)|null|
 |**2026-03-02**|**Unifying Language-Action Understanding and Generation for Autonomous Driving**|Wei Chen Team|[2603.01441](http://arxiv.org/abs/2603.01441)|null|
 |**2026-03-02**|**Perspective-Equivariant Fine-tuning for Multispectral Demosaicing without Ground Truth**|Mike Davies Team|[2603.01332](http://arxiv.org/abs/2603.01332)|null|
