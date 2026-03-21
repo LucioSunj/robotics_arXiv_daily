@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.20
+## Updated on 2026.03.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Long-Horizon
@@ -9997,7 +9997,7 @@ layout: default
 |**2026-03-19**|**Seeking Universal Shot Language Understanding Solutions**|B. Aditya Prakash Team|[2603.18448](http://arxiv.org/abs/2603.18448)|null|
 |**2026-03-19**|**Multimodal Task Interference: A Benchmark and Analysis of History-Target Mismatch in Multimodal LLMs**|Hiroya Takamura Team|[2603.18425](http://arxiv.org/abs/2603.18425)|null|
 |**2026-03-19**|**Mind the Rarities: Can Rare Skin Diseases Be Reliably Diagnosed via Diagnostic Reasoning?**|Min Xu Team|[2603.18418](http://arxiv.org/abs/2603.18418)|null|
-|**2026-03-19**|**TARo: Token-level Adaptive Routing for LLM Test-time Alignment**|Zhuokai Zhao Team|[2603.18411](http://arxiv.org/abs/2603.18411)|null|
+|**2026-03-19**|**TARo: Token-level Adaptive Routing for LLM Test-time Alignment**|Lizhu Zhang Team|[2603.18411](http://arxiv.org/abs/2603.18411)|null|
 |**2026-03-19**|**To See or To Please: Uncovering Visual Sycophancy and Split Beliefs in VLMs**|Shuxue Quan Team|[2603.18373](http://arxiv.org/abs/2603.18373)|null|
 |**2026-03-18**|**DriveVLM-RL: Neuroscience-Inspired Reinforcement Learning with Vision-Language Models for Safe and Deployable Autonomous Driving**|Sikai Chen Team|[2603.18315](http://arxiv.org/abs/2603.18315)|null|
 |**2026-03-18**|**GoalVLM: VLM-driven Object Goal Navigation for Multi-Agent System**|Dzmitry Tsetserokou Team|[2603.18210](http://arxiv.org/abs/2603.18210)|null|
